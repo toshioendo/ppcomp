@@ -1,2 +1,1 @@
-# ppcomp
-Lecture of Practical Parallel Computing
+# Lecture of Practical Parallel Computing
