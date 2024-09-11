@@ -1,0 +1,1638 @@
+r6i3n4:44861 rank=0, size=2. sbuf=0x2aaad447c010, rbuf=0x2aaad847d010
+r6i3n4:44862 rank=1, size=2. sbuf=0x2aaad447c010, rbuf=0x2aaad847d010
+#proc=2
+BCAST:     1 Bytes --> 14 us, 0.1 MB/s
+Send&Recv: 1 Bytes --> 5 us, 0.2 MB/s
+BCAST:     1 Bytes --> 2 us, 0.4 MB/s
+Send&Recv: 1 Bytes --> 2 us, 0.5 MB/s
+BCAST:     1 Bytes --> 3 us, 0.4 MB/s
+Send&Recv: 1 Bytes --> 2 us, 0.5 MB/s
+BCAST:     1 Bytes --> 2 us, 0.4 MB/s
+Send&Recv: 1 Bytes --> 2 us, 0.5 MB/s
+BCAST:     1 Bytes --> 2 us, 0.4 MB/s
+Send&Recv: 1 Bytes --> 2 us, 0.5 MB/s
+
+#proc=2
+BCAST:     2 Bytes --> 2 us, 1.0 MB/s
+Send&Recv: 2 Bytes --> 2 us, 1.0 MB/s
+BCAST:     2 Bytes --> 2 us, 1.0 MB/s
+Send&Recv: 2 Bytes --> 2 us, 1.0 MB/s
+BCAST:     2 Bytes --> 2 us, 1.0 MB/s
+Send&Recv: 2 Bytes --> 2 us, 1.0 MB/s
+BCAST:     2 Bytes --> 2 us, 1.1 MB/s
+Send&Recv: 2 Bytes --> 2 us, 0.8 MB/s
+BCAST:     2 Bytes --> 2 us, 1.0 MB/s
+Send&Recv: 2 Bytes --> 2 us, 1.0 MB/s
+
+#proc=2
+BCAST:     4 Bytes --> 2 us, 1.7 MB/s
+Send&Recv: 4 Bytes --> 2 us, 2.0 MB/s
+BCAST:     4 Bytes --> 2 us, 1.7 MB/s
+Send&Recv: 4 Bytes --> 2 us, 1.6 MB/s
+BCAST:     4 Bytes --> 2 us, 2.1 MB/s
+Send&Recv: 4 Bytes --> 2 us, 2.1 MB/s
+BCAST:     4 Bytes --> 2 us, 2.1 MB/s
+Send&Recv: 4 Bytes --> 2 us, 1.7 MB/s
+BCAST:     4 Bytes --> 2 us, 2.0 MB/s
+Send&Recv: 4 Bytes --> 2 us, 2.0 MB/s
+
+#proc=2
+BCAST:     8 Bytes --> 2 us, 3.3 MB/s
+Send&Recv: 8 Bytes --> 2 us, 3.4 MB/s
+BCAST:     8 Bytes --> 2 us, 4.0 MB/s
+Send&Recv: 8 Bytes --> 2 us, 4.2 MB/s
+BCAST:     8 Bytes --> 2 us, 4.0 MB/s
+Send&Recv: 8 Bytes --> 2 us, 4.1 MB/s
+BCAST:     8 Bytes --> 2 us, 4.0 MB/s
+Send&Recv: 8 Bytes --> 2 us, 4.2 MB/s
+BCAST:     8 Bytes --> 2 us, 4.0 MB/s
+Send&Recv: 8 Bytes --> 2 us, 4.1 MB/s
+
+#proc=2
+BCAST:     16 Bytes --> 2 us, 8.1 MB/s
+Send&Recv: 16 Bytes --> 2 us, 8.3 MB/s
+BCAST:     16 Bytes --> 2 us, 7.9 MB/s
+Send&Recv: 16 Bytes --> 2 us, 8.5 MB/s
+BCAST:     16 Bytes --> 4 us, 3.8 MB/s
+Send&Recv: 16 Bytes --> 2 us, 7.9 MB/s
+BCAST:     16 Bytes --> 2 us, 8.2 MB/s
+Send&Recv: 16 Bytes --> 2 us, 6.6 MB/s
+BCAST:     16 Bytes --> 2 us, 7.9 MB/s
+Send&Recv: 16 Bytes --> 2 us, 8.4 MB/s
+
+#proc=2
+BCAST:     32 Bytes --> 2 us, 15.5 MB/s
+Send&Recv: 32 Bytes --> 2 us, 16.2 MB/s
+BCAST:     32 Bytes --> 2 us, 15.9 MB/s
+Send&Recv: 32 Bytes --> 2 us, 16.1 MB/s
+BCAST:     32 Bytes --> 2 us, 15.6 MB/s
+Send&Recv: 32 Bytes --> 2 us, 13.5 MB/s
+BCAST:     32 Bytes --> 2 us, 15.6 MB/s
+Send&Recv: 32 Bytes --> 2 us, 16.7 MB/s
+BCAST:     32 Bytes --> 2 us, 15.9 MB/s
+Send&Recv: 32 Bytes --> 2 us, 16.8 MB/s
+
+#proc=2
+BCAST:     64 Bytes --> 2 us, 26.5 MB/s
+Send&Recv: 64 Bytes --> 2 us, 33.4 MB/s
+BCAST:     64 Bytes --> 2 us, 33.2 MB/s
+Send&Recv: 64 Bytes --> 2 us, 33.0 MB/s
+BCAST:     64 Bytes --> 2 us, 26.9 MB/s
+Send&Recv: 64 Bytes --> 2 us, 26.7 MB/s
+BCAST:     64 Bytes --> 2 us, 27.5 MB/s
+Send&Recv: 64 Bytes --> 2 us, 27.2 MB/s
+BCAST:     64 Bytes --> 2 us, 26.5 MB/s
+Send&Recv: 64 Bytes --> 2 us, 33.5 MB/s
+
+#proc=2
+BCAST:     128 Bytes --> 2 us, 62.8 MB/s
+Send&Recv: 128 Bytes --> 3 us, 46.7 MB/s
+BCAST:     128 Bytes --> 2 us, 61.6 MB/s
+Send&Recv: 128 Bytes --> 2 us, 65.8 MB/s
+BCAST:     128 Bytes --> 2 us, 59.8 MB/s
+Send&Recv: 128 Bytes --> 2 us, 64.6 MB/s
+BCAST:     128 Bytes --> 2 us, 61.2 MB/s
+Send&Recv: 128 Bytes --> 2 us, 54.2 MB/s
+BCAST:     128 Bytes --> 2 us, 61.7 MB/s
+Send&Recv: 128 Bytes --> 2 us, 65.8 MB/s
+
+#proc=2
+BCAST:     256 Bytes --> 2 us, 121.6 MB/s
+Send&Recv: 256 Bytes --> 2 us, 127.5 MB/s
+BCAST:     256 Bytes --> 2 us, 122.5 MB/s
+Send&Recv: 256 Bytes --> 2 us, 109.2 MB/s
+BCAST:     256 Bytes --> 2 us, 105.3 MB/s
+Send&Recv: 256 Bytes --> 2 us, 126.1 MB/s
+BCAST:     256 Bytes --> 2 us, 129.4 MB/s
+Send&Recv: 256 Bytes --> 2 us, 107.9 MB/s
+BCAST:     256 Bytes --> 2 us, 107.8 MB/s
+Send&Recv: 256 Bytes --> 2 us, 126.0 MB/s
+
+#proc=2
+BCAST:     512 Bytes --> 7 us, 70.5 MB/s
+Send&Recv: 512 Bytes --> 3 us, 199.6 MB/s
+BCAST:     512 Bytes --> 3 us, 170.2 MB/s
+Send&Recv: 512 Bytes --> 3 us, 203.2 MB/s
+BCAST:     512 Bytes --> 2 us, 207.7 MB/s
+Send&Recv: 512 Bytes --> 3 us, 196.0 MB/s
+BCAST:     512 Bytes --> 2 us, 249.8 MB/s
+Send&Recv: 512 Bytes --> 2 us, 211.4 MB/s
+BCAST:     512 Bytes --> 2 us, 229.6 MB/s
+Send&Recv: 512 Bytes --> 2 us, 245.3 MB/s
+
+#proc=2
+BCAST:     1024 Bytes --> 2 us, 457.4 MB/s
+Send&Recv: 1024 Bytes --> 2 us, 419.3 MB/s
+BCAST:     1024 Bytes --> 2 us, 472.9 MB/s
+Send&Recv: 1024 Bytes --> 2 us, 422.2 MB/s
+BCAST:     1024 Bytes --> 2 us, 477.4 MB/s
+Send&Recv: 1024 Bytes --> 2 us, 412.9 MB/s
+BCAST:     1024 Bytes --> 2 us, 479.5 MB/s
+Send&Recv: 1024 Bytes --> 2 us, 411.5 MB/s
+BCAST:     1024 Bytes --> 3 us, 403.8 MB/s
+Send&Recv: 1024 Bytes --> 2 us, 471.9 MB/s
+
+#proc=2
+BCAST:     2048 Bytes --> 6 us, 372.1 MB/s
+Send&Recv: 2048 Bytes --> 3 us, 704.1 MB/s
+BCAST:     2048 Bytes --> 3 us, 617.9 MB/s
+Send&Recv: 2048 Bytes --> 2 us, 823.9 MB/s
+BCAST:     2048 Bytes --> 3 us, 623.1 MB/s
+Send&Recv: 2048 Bytes --> 3 us, 772.1 MB/s
+BCAST:     2048 Bytes --> 3 us, 751.5 MB/s
+Send&Recv: 2048 Bytes --> 3 us, 799.6 MB/s
+BCAST:     2048 Bytes --> 4 us, 581.8 MB/s
+Send&Recv: 2048 Bytes --> 3 us, 816.0 MB/s
+
+#proc=2
+BCAST:     4096 Bytes --> 4 us, 934.4 MB/s
+Send&Recv: 4096 Bytes --> 31 us, 131.4 MB/s
+BCAST:     4096 Bytes --> 4 us, 956.1 MB/s
+Send&Recv: 4096 Bytes --> 4 us, 939.8 MB/s
+BCAST:     4096 Bytes --> 4 us, 1000.7 MB/s
+Send&Recv: 4096 Bytes --> 4 us, 1058.2 MB/s
+BCAST:     4096 Bytes --> 4 us, 982.8 MB/s
+Send&Recv: 4096 Bytes --> 4 us, 1119.1 MB/s
+BCAST:     4096 Bytes --> 4 us, 1016.4 MB/s
+Send&Recv: 4096 Bytes --> 4 us, 1090.5 MB/s
+
+#proc=2
+BCAST:     8192 Bytes --> 10 us, 813.0 MB/s
+Send&Recv: 8192 Bytes --> 17 us, 482.9 MB/s
+BCAST:     8192 Bytes --> 7 us, 1231.6 MB/s
+Send&Recv: 8192 Bytes --> 4 us, 2015.1 MB/s
+BCAST:     8192 Bytes --> 7 us, 1137.2 MB/s
+Send&Recv: 8192 Bytes --> 4 us, 1832.1 MB/s
+BCAST:     8192 Bytes --> 7 us, 1242.2 MB/s
+Send&Recv: 8192 Bytes --> 5 us, 1656.2 MB/s
+BCAST:     8192 Bytes --> 7 us, 1229.9 MB/s
+Send&Recv: 8192 Bytes --> 5 us, 1661.8 MB/s
+
+#proc=2
+BCAST:     16384 Bytes --> 153 us, 106.7 MB/s
+Send&Recv: 16384 Bytes --> 12 us, 1386.1 MB/s
+BCAST:     16384 Bytes --> 11 us, 1495.7 MB/s
+Send&Recv: 16384 Bytes --> 6 us, 2703.2 MB/s
+BCAST:     16384 Bytes --> 10 us, 1617.1 MB/s
+Send&Recv: 16384 Bytes --> 6 us, 2713.6 MB/s
+BCAST:     16384 Bytes --> 11 us, 1560.0 MB/s
+Send&Recv: 16384 Bytes --> 6 us, 2729.2 MB/s
+BCAST:     16384 Bytes --> 10 us, 1570.3 MB/s
+Send&Recv: 16384 Bytes --> 6 us, 2651.8 MB/s
+
+#proc=2
+BCAST:     32768 Bytes --> 20 us, 1617.7 MB/s
+Send&Recv: 32768 Bytes --> 19 us, 1691.3 MB/s
+BCAST:     32768 Bytes --> 18 us, 1816.8 MB/s
+Send&Recv: 32768 Bytes --> 9 us, 3550.0 MB/s
+BCAST:     32768 Bytes --> 18 us, 1824.4 MB/s
+Send&Recv: 32768 Bytes --> 8 us, 4012.8 MB/s
+BCAST:     32768 Bytes --> 17 us, 1893.7 MB/s
+Send&Recv: 32768 Bytes --> 8 us, 3968.9 MB/s
+BCAST:     32768 Bytes --> 18 us, 1832.7 MB/s
+Send&Recv: 32768 Bytes --> 9 us, 3819.4 MB/s
+
+#proc=2
+BCAST:     65536 Bytes --> 41 us, 1589.5 MB/s
+Send&Recv: 65536 Bytes --> 38 us, 1726.3 MB/s
+BCAST:     65536 Bytes --> 33 us, 2014.2 MB/s
+Send&Recv: 65536 Bytes --> 16 us, 4222.0 MB/s
+BCAST:     65536 Bytes --> 32 us, 2049.0 MB/s
+Send&Recv: 65536 Bytes --> 12 us, 5558.8 MB/s
+BCAST:     65536 Bytes --> 33 us, 1998.0 MB/s
+Send&Recv: 65536 Bytes --> 12 us, 5407.6 MB/s
+BCAST:     65536 Bytes --> 32 us, 2041.7 MB/s
+Send&Recv: 65536 Bytes --> 12 us, 5442.3 MB/s
+
+#proc=2
+BCAST:     131072 Bytes --> 77 us, 1710.4 MB/s
+Send&Recv: 131072 Bytes --> 65 us, 2009.6 MB/s
+BCAST:     131072 Bytes --> 64 us, 2033.8 MB/s
+Send&Recv: 131072 Bytes --> 20 us, 6711.4 MB/s
+BCAST:     131072 Bytes --> 60 us, 2168.3 MB/s
+Send&Recv: 131072 Bytes --> 20 us, 6598.7 MB/s
+BCAST:     131072 Bytes --> 60 us, 2185.4 MB/s
+Send&Recv: 131072 Bytes --> 20 us, 6590.4 MB/s
+BCAST:     131072 Bytes --> 60 us, 2181.4 MB/s
+Send&Recv: 131072 Bytes --> 20 us, 6650.5 MB/s
+
+#proc=2
+BCAST:     262144 Bytes --> 338 us, 775.9 MB/s
+Send&Recv: 262144 Bytes --> 42 us, 6265.9 MB/s
+BCAST:     262144 Bytes --> 115 us, 2281.1 MB/s
+Send&Recv: 262144 Bytes --> 34 us, 7678.6 MB/s
+BCAST:     262144 Bytes --> 115 us, 2281.9 MB/s
+Send&Recv: 262144 Bytes --> 34 us, 7668.4 MB/s
+BCAST:     262144 Bytes --> 135 us, 1946.3 MB/s
+Send&Recv: 262144 Bytes --> 38 us, 6832.7 MB/s
+BCAST:     262144 Bytes --> 119 us, 2209.9 MB/s
+Send&Recv: 262144 Bytes --> 35 us, 7564.3 MB/s
+
+#proc=2
+BCAST:     524288 Bytes --> 114 us, 4584.7 MB/s
+Send&Recv: 524288 Bytes --> 76 us, 6889.4 MB/s
+BCAST:     524288 Bytes --> 78 us, 6746.0 MB/s
+Send&Recv: 524288 Bytes --> 64 us, 8201.2 MB/s
+BCAST:     524288 Bytes --> 79 us, 6666.7 MB/s
+Send&Recv: 524288 Bytes --> 63 us, 8301.9 MB/s
+BCAST:     524288 Bytes --> 79 us, 6650.4 MB/s
+Send&Recv: 524288 Bytes --> 63 us, 8325.6 MB/s
+BCAST:     524288 Bytes --> 80 us, 6581.1 MB/s
+Send&Recv: 524288 Bytes --> 63 us, 8268.8 MB/s
+
+#proc=2
+BCAST:     1048576 Bytes --> 222 us, 4727.4 MB/s
+Send&Recv: 1048576 Bytes --> 147 us, 7113.8 MB/s
+BCAST:     1048576 Bytes --> 160 us, 6553.6 MB/s
+Send&Recv: 1048576 Bytes --> 124 us, 8456.3 MB/s
+BCAST:     1048576 Bytes --> 157 us, 6678.4 MB/s
+Send&Recv: 1048576 Bytes --> 124 us, 8475.9 MB/s
+BCAST:     1048576 Bytes --> 158 us, 6627.2 MB/s
+Send&Recv: 1048576 Bytes --> 123 us, 8519.3 MB/s
+BCAST:     1048576 Bytes --> 158 us, 6633.3 MB/s
+Send&Recv: 1048576 Bytes --> 124 us, 8484.3 MB/s
+
+#proc=2
+BCAST:     2097152 Bytes --> 446 us, 4697.4 MB/s
+Send&Recv: 2097152 Bytes --> 294 us, 7126.9 MB/s
+BCAST:     2097152 Bytes --> 315 us, 6661.7 MB/s
+Send&Recv: 2097152 Bytes --> 250 us, 8375.9 MB/s
+BCAST:     2097152 Bytes --> 316 us, 6636.0 MB/s
+Send&Recv: 2097152 Bytes --> 241 us, 8706.6 MB/s
+BCAST:     2097152 Bytes --> 313 us, 6691.5 MB/s
+Send&Recv: 2097152 Bytes --> 241 us, 8714.3 MB/s
+BCAST:     2097152 Bytes --> 312 us, 6725.6 MB/s
+Send&Recv: 2097152 Bytes --> 241 us, 8696.0 MB/s
+
+#proc=2
+BCAST:     4194304 Bytes --> 863 us, 4860.8 MB/s
+Send&Recv: 4194304 Bytes --> 550 us, 7619.6 MB/s
+BCAST:     4194304 Bytes --> 627 us, 6684.9 MB/s
+Send&Recv: 4194304 Bytes --> 487 us, 8619.0 MB/s
+BCAST:     4194304 Bytes --> 624 us, 6725.9 MB/s
+Send&Recv: 4194304 Bytes --> 478 us, 8782.9 MB/s
+BCAST:     4194304 Bytes --> 626 us, 6702.7 MB/s
+Send&Recv: 4194304 Bytes --> 477 us, 8785.1 MB/s
+BCAST:     4194304 Bytes --> 624 us, 6716.9 MB/s
+Send&Recv: 4194304 Bytes --> 478 us, 8777.1 MB/s
+
+#proc=2
+BCAST:     8388608 Bytes --> 1739 us, 4824.2 MB/s
+Send&Recv: 8388608 Bytes --> 1096 us, 7655.3 MB/s
+BCAST:     8388608 Bytes --> 1253 us, 6695.7 MB/s
+Send&Recv: 8388608 Bytes --> 960 us, 8736.3 MB/s
+BCAST:     8388608 Bytes --> 1254 us, 6690.9 MB/s
+Send&Recv: 8388608 Bytes --> 951 us, 8822.1 MB/s
+BCAST:     8388608 Bytes --> 1265 us, 6633.2 MB/s
+Send&Recv: 8388608 Bytes --> 950 us, 8826.3 MB/s
+BCAST:     8388608 Bytes --> 1252 us, 6701.9 MB/s
+Send&Recv: 8388608 Bytes --> 949 us, 8842.6 MB/s
+
+#proc=2
+BCAST:     16777216 Bytes --> 3445 us, 4869.7 MB/s
+Send&Recv: 16777216 Bytes --> 2626 us, 6387.8 MB/s
+BCAST:     16777216 Bytes --> 3056 us, 5489.4 MB/s
+Send&Recv: 16777216 Bytes --> 2335 us, 7186.0 MB/s
+BCAST:     16777216 Bytes --> 3039 us, 5519.8 MB/s
+Send&Recv: 16777216 Bytes --> 2344 us, 7157.0 MB/s
+BCAST:     16777216 Bytes --> 3006 us, 5581.9 MB/s
+Send&Recv: 16777216 Bytes --> 2346 us, 7152.6 MB/s
+BCAST:     16777216 Bytes --> 3026 us, 5543.8 MB/s
+Send&Recv: 16777216 Bytes --> 2338 us, 7177.2 MB/s
+
+#proc=2
+BCAST:     33554432 Bytes --> 7369 us, 4553.3 MB/s
+Send&Recv: 33554432 Bytes --> 7162 us, 4685.4 MB/s
+BCAST:     33554432 Bytes --> 8690 us, 3861.2 MB/s
+Send&Recv: 33554432 Bytes --> 7163 us, 4684.1 MB/s
+BCAST:     33554432 Bytes --> 8674 us, 3868.5 MB/s
+Send&Recv: 33554432 Bytes --> 7152 us, 4691.7 MB/s
+BCAST:     33554432 Bytes --> 8688 us, 3862.2 MB/s
+Send&Recv: 33554432 Bytes --> 7138 us, 4701.1 MB/s
+BCAST:     33554432 Bytes --> 8674 us, 3868.4 MB/s
+Send&Recv: 33554432 Bytes --> 7148 us, 4694.3 MB/s
+
+#proc=2
+BCAST:     67108864 Bytes --> 17465 us, 3842.5 MB/s
+Send&Recv: 67108864 Bytes --> 14470 us, 4637.8 MB/s
+BCAST:     67108864 Bytes --> 17575 us, 3818.3 MB/s
+Send&Recv: 67108864 Bytes --> 14466 us, 4639.1 MB/s
+BCAST:     67108864 Bytes --> 17575 us, 3818.5 MB/s
+Send&Recv: 67108864 Bytes --> 14451 us, 4643.9 MB/s
+BCAST:     67108864 Bytes --> 18089 us, 3710.0 MB/s
+Send&Recv: 67108864 Bytes --> 14468 us, 4638.6 MB/s
+BCAST:     67108864 Bytes --> 17574 us, 3818.7 MB/s
+Send&Recv: 67108864 Bytes --> 14460 us, 4640.8 MB/s
+
+r6i3n4:44913 rank=0, size=4. sbuf=0x2aaad447c010, rbuf=0x2aaad847d010
+r6i3n4:44915 rank=2, size=4. sbuf=0x2aaad447c010, rbuf=0x2aaad847d010
+r6i3n4:44914 rank=1, size=4. sbuf=0x2aaad447c010, rbuf=0x2aaad847d010
+r6i3n4:44916 rank=3, size=4. sbuf=0x2aaad447c010, rbuf=0x2aaad847d010
+#proc=4
+BCAST:     1 Bytes --> 22 us, 0.0 MB/s
+Send&Recv: 1 Bytes --> 26 us, 0.0 MB/s
+BCAST:     1 Bytes --> 8 us, 0.1 MB/s
+Send&Recv: 1 Bytes --> 10 us, 0.1 MB/s
+BCAST:     1 Bytes --> 7 us, 0.1 MB/s
+Send&Recv: 1 Bytes --> 6 us, 0.2 MB/s
+BCAST:     1 Bytes --> 9 us, 0.1 MB/s
+Send&Recv: 1 Bytes --> 7 us, 0.2 MB/s
+BCAST:     1 Bytes --> 5 us, 0.2 MB/s
+Send&Recv: 1 Bytes --> 6 us, 0.2 MB/s
+
+#proc=4
+BCAST:     2 Bytes --> 6 us, 0.3 MB/s
+Send&Recv: 2 Bytes --> 6 us, 0.4 MB/s
+BCAST:     2 Bytes --> 9 us, 0.2 MB/s
+Send&Recv: 2 Bytes --> 7 us, 0.3 MB/s
+BCAST:     2 Bytes --> 8 us, 0.2 MB/s
+Send&Recv: 2 Bytes --> 6 us, 0.3 MB/s
+BCAST:     2 Bytes --> 6 us, 0.3 MB/s
+Send&Recv: 2 Bytes --> 6 us, 0.4 MB/s
+BCAST:     2 Bytes --> 6 us, 0.3 MB/s
+Send&Recv: 2 Bytes --> 6 us, 0.3 MB/s
+
+#proc=4
+BCAST:     4 Bytes --> 6 us, 0.6 MB/s
+Send&Recv: 4 Bytes --> 6 us, 0.7 MB/s
+BCAST:     4 Bytes --> 6 us, 0.6 MB/s
+Send&Recv: 4 Bytes --> 6 us, 0.7 MB/s
+BCAST:     4 Bytes --> 7 us, 0.6 MB/s
+Send&Recv: 4 Bytes --> 6 us, 0.7 MB/s
+BCAST:     4 Bytes --> 8 us, 0.5 MB/s
+Send&Recv: 4 Bytes --> 7 us, 0.6 MB/s
+BCAST:     4 Bytes --> 6 us, 0.7 MB/s
+Send&Recv: 4 Bytes --> 7 us, 0.6 MB/s
+
+#proc=4
+BCAST:     8 Bytes --> 7 us, 1.1 MB/s
+Send&Recv: 8 Bytes --> 6 us, 1.4 MB/s
+BCAST:     8 Bytes --> 7 us, 1.2 MB/s
+Send&Recv: 8 Bytes --> 7 us, 1.2 MB/s
+BCAST:     8 Bytes --> 8 us, 1.0 MB/s
+Send&Recv: 8 Bytes --> 5 us, 1.5 MB/s
+BCAST:     8 Bytes --> 5 us, 1.5 MB/s
+Send&Recv: 8 Bytes --> 6 us, 1.4 MB/s
+BCAST:     8 Bytes --> 6 us, 1.4 MB/s
+Send&Recv: 8 Bytes --> 8 us, 1.0 MB/s
+
+#proc=4
+BCAST:     16 Bytes --> 6 us, 2.5 MB/s
+Send&Recv: 16 Bytes --> 6 us, 2.7 MB/s
+BCAST:     16 Bytes --> 7 us, 2.4 MB/s
+Send&Recv: 16 Bytes --> 6 us, 2.6 MB/s
+BCAST:     16 Bytes --> 6 us, 2.5 MB/s
+Send&Recv: 16 Bytes --> 5 us, 2.9 MB/s
+BCAST:     16 Bytes --> 7 us, 2.4 MB/s
+Send&Recv: 16 Bytes --> 6 us, 2.5 MB/s
+BCAST:     16 Bytes --> 6 us, 2.5 MB/s
+Send&Recv: 16 Bytes --> 6 us, 2.6 MB/s
+
+#proc=4
+BCAST:     32 Bytes --> 6 us, 5.3 MB/s
+Send&Recv: 32 Bytes --> 12 us, 2.8 MB/s
+BCAST:     32 Bytes --> 10 us, 3.1 MB/s
+Send&Recv: 32 Bytes --> 7 us, 4.5 MB/s
+BCAST:     32 Bytes --> 6 us, 5.2 MB/s
+Send&Recv: 32 Bytes --> 5 us, 5.9 MB/s
+BCAST:     32 Bytes --> 6 us, 5.0 MB/s
+Send&Recv: 32 Bytes --> 6 us, 5.2 MB/s
+BCAST:     32 Bytes --> 7 us, 4.4 MB/s
+Send&Recv: 32 Bytes --> 7 us, 4.6 MB/s
+
+#proc=4
+BCAST:     64 Bytes --> 7 us, 9.1 MB/s
+Send&Recv: 64 Bytes --> 7 us, 9.8 MB/s
+BCAST:     64 Bytes --> 6 us, 10.4 MB/s
+Send&Recv: 64 Bytes --> 7 us, 9.2 MB/s
+BCAST:     64 Bytes --> 6 us, 10.4 MB/s
+Send&Recv: 64 Bytes --> 6 us, 10.4 MB/s
+BCAST:     64 Bytes --> 6 us, 9.9 MB/s
+Send&Recv: 64 Bytes --> 6 us, 10.1 MB/s
+BCAST:     64 Bytes --> 6 us, 10.3 MB/s
+Send&Recv: 64 Bytes --> 6 us, 10.2 MB/s
+
+#proc=4
+BCAST:     128 Bytes --> 17 us, 7.6 MB/s
+Send&Recv: 128 Bytes --> 6 us, 21.4 MB/s
+BCAST:     128 Bytes --> 7 us, 19.1 MB/s
+Send&Recv: 128 Bytes --> 7 us, 18.8 MB/s
+BCAST:     128 Bytes --> 18 us, 7.0 MB/s
+Send&Recv: 128 Bytes --> 10 us, 13.4 MB/s
+BCAST:     128 Bytes --> 7 us, 19.5 MB/s
+Send&Recv: 128 Bytes --> 6 us, 20.2 MB/s
+BCAST:     128 Bytes --> 10 us, 13.0 MB/s
+Send&Recv: 128 Bytes --> 6 us, 21.5 MB/s
+
+#proc=4
+BCAST:     256 Bytes --> 8 us, 33.6 MB/s
+Send&Recv: 256 Bytes --> 6 us, 43.1 MB/s
+BCAST:     256 Bytes --> 7 us, 37.2 MB/s
+Send&Recv: 256 Bytes --> 7 us, 35.7 MB/s
+BCAST:     256 Bytes --> 7 us, 34.4 MB/s
+Send&Recv: 256 Bytes --> 6 us, 40.8 MB/s
+BCAST:     256 Bytes --> 7 us, 39.3 MB/s
+Send&Recv: 256 Bytes --> 6 us, 42.9 MB/s
+BCAST:     256 Bytes --> 7 us, 37.1 MB/s
+Send&Recv: 256 Bytes --> 6 us, 42.1 MB/s
+
+#proc=4
+BCAST:     512 Bytes --> 15 us, 33.4 MB/s
+Send&Recv: 512 Bytes --> 7 us, 69.4 MB/s
+BCAST:     512 Bytes --> 8 us, 68.1 MB/s
+Send&Recv: 512 Bytes --> 6 us, 87.1 MB/s
+BCAST:     512 Bytes --> 7 us, 74.9 MB/s
+Send&Recv: 512 Bytes --> 7 us, 74.0 MB/s
+BCAST:     512 Bytes --> 7 us, 73.4 MB/s
+Send&Recv: 512 Bytes --> 7 us, 68.5 MB/s
+BCAST:     512 Bytes --> 8 us, 68.0 MB/s
+Send&Recv: 512 Bytes --> 7 us, 77.9 MB/s
+
+#proc=4
+BCAST:     1024 Bytes --> 8 us, 121.8 MB/s
+Send&Recv: 1024 Bytes --> 9 us, 111.4 MB/s
+BCAST:     1024 Bytes --> 7 us, 146.5 MB/s
+Send&Recv: 1024 Bytes --> 7 us, 156.7 MB/s
+BCAST:     1024 Bytes --> 7 us, 136.6 MB/s
+Send&Recv: 1024 Bytes --> 7 us, 149.8 MB/s
+BCAST:     1024 Bytes --> 7 us, 152.4 MB/s
+Send&Recv: 1024 Bytes --> 6 us, 160.9 MB/s
+BCAST:     1024 Bytes --> 7 us, 144.7 MB/s
+Send&Recv: 1024 Bytes --> 10 us, 99.7 MB/s
+
+#proc=4
+BCAST:     2048 Bytes --> 24 us, 85.8 MB/s
+Send&Recv: 2048 Bytes --> 8 us, 256.5 MB/s
+BCAST:     2048 Bytes --> 10 us, 215.4 MB/s
+Send&Recv: 2048 Bytes --> 8 us, 254.1 MB/s
+BCAST:     2048 Bytes --> 17 us, 124.0 MB/s
+Send&Recv: 2048 Bytes --> 10 us, 195.7 MB/s
+BCAST:     2048 Bytes --> 10 us, 207.8 MB/s
+Send&Recv: 2048 Bytes --> 8 us, 254.0 MB/s
+BCAST:     2048 Bytes --> 10 us, 212.7 MB/s
+Send&Recv: 2048 Bytes --> 8 us, 261.8 MB/s
+
+#proc=4
+BCAST:     4096 Bytes --> 11 us, 358.8 MB/s
+Send&Recv: 4096 Bytes --> 64 us, 64.4 MB/s
+BCAST:     4096 Bytes --> 12 us, 355.4 MB/s
+Send&Recv: 4096 Bytes --> 17 us, 235.1 MB/s
+BCAST:     4096 Bytes --> 13 us, 308.5 MB/s
+Send&Recv: 4096 Bytes --> 16 us, 252.7 MB/s
+BCAST:     4096 Bytes --> 11 us, 356.7 MB/s
+Send&Recv: 4096 Bytes --> 16 us, 258.3 MB/s
+BCAST:     4096 Bytes --> 10 us, 403.7 MB/s
+Send&Recv: 4096 Bytes --> 17 us, 237.7 MB/s
+
+#proc=4
+BCAST:     8192 Bytes --> 30 us, 276.1 MB/s
+Send&Recv: 8192 Bytes --> 39 us, 211.7 MB/s
+BCAST:     8192 Bytes --> 19 us, 426.9 MB/s
+Send&Recv: 8192 Bytes --> 20 us, 417.8 MB/s
+BCAST:     8192 Bytes --> 19 us, 429.2 MB/s
+Send&Recv: 8192 Bytes --> 20 us, 409.4 MB/s
+BCAST:     8192 Bytes --> 18 us, 455.0 MB/s
+Send&Recv: 8192 Bytes --> 19 us, 421.2 MB/s
+BCAST:     8192 Bytes --> 23 us, 362.7 MB/s
+Send&Recv: 8192 Bytes --> 19 us, 428.2 MB/s
+
+#proc=4
+BCAST:     16384 Bytes --> 43 us, 380.2 MB/s
+Send&Recv: 16384 Bytes --> 34 us, 478.8 MB/s
+BCAST:     16384 Bytes --> 27 us, 616.9 MB/s
+Send&Recv: 16384 Bytes --> 29 us, 556.6 MB/s
+BCAST:     16384 Bytes --> 27 us, 600.7 MB/s
+Send&Recv: 16384 Bytes --> 28 us, 593.3 MB/s
+BCAST:     16384 Bytes --> 26 us, 624.9 MB/s
+Send&Recv: 16384 Bytes --> 28 us, 583.5 MB/s
+BCAST:     16384 Bytes --> 38 us, 436.7 MB/s
+Send&Recv: 16384 Bytes --> 28 us, 579.4 MB/s
+
+#proc=4
+BCAST:     32768 Bytes --> 62 us, 526.6 MB/s
+Send&Recv: 32768 Bytes --> 53 us, 619.4 MB/s
+BCAST:     32768 Bytes --> 45 us, 727.4 MB/s
+Send&Recv: 32768 Bytes --> 43 us, 766.4 MB/s
+BCAST:     32768 Bytes --> 46 us, 716.6 MB/s
+Send&Recv: 32768 Bytes --> 40 us, 813.3 MB/s
+BCAST:     32768 Bytes --> 43 us, 756.8 MB/s
+Send&Recv: 32768 Bytes --> 46 us, 711.7 MB/s
+BCAST:     32768 Bytes --> 49 us, 662.8 MB/s
+Send&Recv: 32768 Bytes --> 41 us, 798.7 MB/s
+
+#proc=4
+BCAST:     65536 Bytes --> 108 us, 606.9 MB/s
+Send&Recv: 65536 Bytes --> 101 us, 646.4 MB/s
+BCAST:     65536 Bytes --> 83 us, 786.8 MB/s
+Send&Recv: 65536 Bytes --> 64 us, 1029.6 MB/s
+BCAST:     65536 Bytes --> 78 us, 840.3 MB/s
+Send&Recv: 65536 Bytes --> 63 us, 1038.3 MB/s
+BCAST:     65536 Bytes --> 76 us, 867.3 MB/s
+Send&Recv: 65536 Bytes --> 63 us, 1043.6 MB/s
+BCAST:     65536 Bytes --> 76 us, 858.8 MB/s
+Send&Recv: 65536 Bytes --> 65 us, 1008.6 MB/s
+
+#proc=4
+BCAST:     131072 Bytes --> 336 us, 389.9 MB/s
+Send&Recv: 131072 Bytes --> 158 us, 828.7 MB/s
+BCAST:     131072 Bytes --> 164 us, 801.1 MB/s
+Send&Recv: 131072 Bytes --> 109 us, 1208.0 MB/s
+BCAST:     131072 Bytes --> 144 us, 907.6 MB/s
+Send&Recv: 131072 Bytes --> 106 us, 1234.3 MB/s
+BCAST:     131072 Bytes --> 148 us, 886.5 MB/s
+Send&Recv: 131072 Bytes --> 106 us, 1237.8 MB/s
+BCAST:     131072 Bytes --> 142 us, 920.1 MB/s
+Send&Recv: 131072 Bytes --> 109 us, 1205.7 MB/s
+
+#proc=4
+BCAST:     262144 Bytes --> 989 us, 265.0 MB/s
+Send&Recv: 262144 Bytes --> 185 us, 1415.6 MB/s
+BCAST:     262144 Bytes --> 306 us, 857.2 MB/s
+Send&Recv: 262144 Bytes --> 183 us, 1432.2 MB/s
+BCAST:     262144 Bytes --> 281 us, 934.3 MB/s
+Send&Recv: 262144 Bytes --> 176 us, 1485.3 MB/s
+BCAST:     262144 Bytes --> 281 us, 931.4 MB/s
+Send&Recv: 262144 Bytes --> 177 us, 1483.6 MB/s
+BCAST:     262144 Bytes --> 281 us, 931.6 MB/s
+Send&Recv: 262144 Bytes --> 179 us, 1460.6 MB/s
+
+#proc=4
+BCAST:     524288 Bytes --> 494 us, 1060.7 MB/s
+Send&Recv: 524288 Bytes --> 334 us, 1567.9 MB/s
+BCAST:     524288 Bytes --> 455 us, 1151.6 MB/s
+Send&Recv: 524288 Bytes --> 322 us, 1625.7 MB/s
+BCAST:     524288 Bytes --> 447 us, 1172.8 MB/s
+Send&Recv: 524288 Bytes --> 338 us, 1553.0 MB/s
+BCAST:     524288 Bytes --> 446 us, 1175.3 MB/s
+Send&Recv: 524288 Bytes --> 322 us, 1628.2 MB/s
+BCAST:     524288 Bytes --> 449 us, 1168.4 MB/s
+Send&Recv: 524288 Bytes --> 323 us, 1624.5 MB/s
+
+#proc=4
+BCAST:     1048576 Bytes --> 984 us, 1065.3 MB/s
+Send&Recv: 1048576 Bytes --> 638 us, 1643.5 MB/s
+BCAST:     1048576 Bytes --> 892 us, 1175.0 MB/s
+Send&Recv: 1048576 Bytes --> 616 us, 1702.3 MB/s
+BCAST:     1048576 Bytes --> 891 us, 1176.7 MB/s
+Send&Recv: 1048576 Bytes --> 618 us, 1697.1 MB/s
+BCAST:     1048576 Bytes --> 890 us, 1178.8 MB/s
+Send&Recv: 1048576 Bytes --> 615 us, 1704.6 MB/s
+BCAST:     1048576 Bytes --> 889 us, 1179.7 MB/s
+Send&Recv: 1048576 Bytes --> 617 us, 1699.0 MB/s
+
+#proc=4
+BCAST:     2097152 Bytes --> 1299 us, 1614.6 MB/s
+Send&Recv: 2097152 Bytes --> 1252 us, 1675.3 MB/s
+BCAST:     2097152 Bytes --> 1188 us, 1765.7 MB/s
+Send&Recv: 2097152 Bytes --> 1206 us, 1739.2 MB/s
+BCAST:     2097152 Bytes --> 1165 us, 1799.9 MB/s
+Send&Recv: 2097152 Bytes --> 1212 us, 1730.8 MB/s
+BCAST:     2097152 Bytes --> 1194 us, 1757.0 MB/s
+Send&Recv: 2097152 Bytes --> 1203 us, 1743.0 MB/s
+BCAST:     2097152 Bytes --> 1122 us, 1869.2 MB/s
+Send&Recv: 2097152 Bytes --> 1204 us, 1742.5 MB/s
+
+#proc=4
+BCAST:     4194304 Bytes --> 2469 us, 1698.6 MB/s
+Send&Recv: 4194304 Bytes --> 2474 us, 1695.1 MB/s
+BCAST:     4194304 Bytes --> 2299 us, 1824.0 MB/s
+Send&Recv: 4194304 Bytes --> 2387 us, 1756.9 MB/s
+BCAST:     4194304 Bytes --> 2288 us, 1833.2 MB/s
+Send&Recv: 4194304 Bytes --> 2386 us, 1757.7 MB/s
+BCAST:     4194304 Bytes --> 2306 us, 1818.7 MB/s
+Send&Recv: 4194304 Bytes --> 2386 us, 1758.0 MB/s
+BCAST:     4194304 Bytes --> 2346 us, 1788.1 MB/s
+Send&Recv: 4194304 Bytes --> 2496 us, 1680.6 MB/s
+
+#proc=4
+BCAST:     8388608 Bytes --> 4995 us, 1679.3 MB/s
+Send&Recv: 8388608 Bytes --> 5103 us, 1643.8 MB/s
+BCAST:     8388608 Bytes --> 4538 us, 1848.6 MB/s
+Send&Recv: 8388608 Bytes --> 4835 us, 1735.1 MB/s
+BCAST:     8388608 Bytes --> 4453 us, 1883.8 MB/s
+Send&Recv: 8388608 Bytes --> 4744 us, 1768.4 MB/s
+BCAST:     8388608 Bytes --> 4558 us, 1840.3 MB/s
+Send&Recv: 8388608 Bytes --> 4749 us, 1766.3 MB/s
+BCAST:     8388608 Bytes --> 4506 us, 1861.6 MB/s
+Send&Recv: 8388608 Bytes --> 4745 us, 1767.9 MB/s
+
+#proc=4
+BCAST:     16777216 Bytes --> 9923 us, 1690.7 MB/s
+Send&Recv: 16777216 Bytes --> 10770 us, 1557.8 MB/s
+BCAST:     16777216 Bytes --> 9598 us, 1748.0 MB/s
+Send&Recv: 16777216 Bytes --> 10488 us, 1599.7 MB/s
+BCAST:     16777216 Bytes --> 9601 us, 1747.4 MB/s
+Send&Recv: 16777216 Bytes --> 10469 us, 1602.5 MB/s
+BCAST:     16777216 Bytes --> 9455 us, 1774.5 MB/s
+Send&Recv: 16777216 Bytes --> 10422 us, 1609.7 MB/s
+BCAST:     16777216 Bytes --> 9628 us, 1742.5 MB/s
+Send&Recv: 16777216 Bytes --> 10444 us, 1606.3 MB/s
+
+#proc=4
+BCAST:     33554432 Bytes --> 20094 us, 1669.8 MB/s
+Send&Recv: 33554432 Bytes --> 25349 us, 1323.7 MB/s
+BCAST:     33554432 Bytes --> 21421 us, 1566.4 MB/s
+Send&Recv: 33554432 Bytes --> 25332 us, 1324.6 MB/s
+BCAST:     33554432 Bytes --> 21468 us, 1563.0 MB/s
+Send&Recv: 33554432 Bytes --> 25341 us, 1324.1 MB/s
+BCAST:     33554432 Bytes --> 21481 us, 1562.1 MB/s
+Send&Recv: 33554432 Bytes --> 25338 us, 1324.3 MB/s
+BCAST:     33554432 Bytes --> 23306 us, 1439.7 MB/s
+Send&Recv: 33554432 Bytes --> 25326 us, 1324.9 MB/s
+
+#proc=4
+BCAST:     67108864 Bytes --> 42960 us, 1562.1 MB/s
+Send&Recv: 67108864 Bytes --> 50780 us, 1321.6 MB/s
+BCAST:     67108864 Bytes --> 43103 us, 1557.0 MB/s
+Send&Recv: 67108864 Bytes --> 50640 us, 1325.2 MB/s
+BCAST:     67108864 Bytes --> 42948 us, 1562.5 MB/s
+Send&Recv: 67108864 Bytes --> 50764 us, 1322.0 MB/s
+BCAST:     67108864 Bytes --> 43076 us, 1557.9 MB/s
+Send&Recv: 67108864 Bytes --> 50714 us, 1323.3 MB/s
+BCAST:     67108864 Bytes --> 42966 us, 1561.9 MB/s
+Send&Recv: 67108864 Bytes --> 50688 us, 1324.0 MB/s
+
+r6i3n4:44984 rank=0, size=8. sbuf=0x2aaacf7dc010, rbuf=0x2aaad37dd010
+r6i3n4:44985 rank=1, size=8. sbuf=0x2aaac77db010, rbuf=0x2aaacb7dc010
+r6i3n4:44986 rank=2, size=8. sbuf=0x2aaac77db010, rbuf=0x2aaacb7dc010
+r6i3n4:44987 rank=3, size=8. sbuf=0x2aaac77db010, rbuf=0x2aaacb7dc010
+#proc=8
+BCAST:     1 Bytes --> 33 us, 0.0 MB/s
+Send&Recv: 1 Bytes --> 168 us, 0.0 MB/s
+BCAST:     1 Bytes --> 8 us, 0.1 MB/s
+Send&Recv: 1 Bytes --> 7 us, 0.1 MB/s
+BCAST:     1 Bytes --> 7 us, 0.1 MB/s
+Send&Recv: 1 Bytes --> 8 us, 0.1 MB/s
+BCAST:     1 Bytes --> 7 us, 0.1 MB/s
+Send&Recv: 1 Bytes --> 7 us, 0.1 MB/s
+BCAST:     1 Bytes --> 6 us, 0.2 MB/s
+Send&Recv: 1 Bytes --> 7 us, 0.1 MB/s
+
+#proc=8
+BCAST:     2 Bytes --> 7 us, 0.3 MB/s
+Send&Recv: 2 Bytes --> 7 us, 0.3 MB/s
+BCAST:     2 Bytes --> 6 us, 0.3 MB/s
+Send&Recv: 2 Bytes --> 7 us, 0.3 MB/s
+BCAST:     2 Bytes --> 8 us, 0.3 MB/s
+Send&Recv: 2 Bytes --> 7 us, 0.3 MB/s
+BCAST:     2 Bytes --> 7 us, 0.3 MB/s
+Send&Recv: 2 Bytes --> 7 us, 0.3 MB/s
+BCAST:     2 Bytes --> 7 us, 0.3 MB/s
+Send&Recv: 2 Bytes --> 8 us, 0.2 MB/s
+
+#proc=8
+BCAST:     4 Bytes --> 6 us, 0.6 MB/s
+Send&Recv: 4 Bytes --> 7 us, 0.6 MB/s
+BCAST:     4 Bytes --> 6 us, 0.7 MB/s
+Send&Recv: 4 Bytes --> 7 us, 0.6 MB/s
+BCAST:     4 Bytes --> 7 us, 0.6 MB/s
+Send&Recv: 4 Bytes --> 9 us, 0.5 MB/s
+BCAST:     4 Bytes --> 7 us, 0.6 MB/s
+Send&Recv: 4 Bytes --> 7 us, 0.5 MB/s
+BCAST:     4 Bytes --> 7 us, 0.6 MB/s
+Send&Recv: 4 Bytes --> 7 us, 0.6 MB/s
+
+#proc=8
+BCAST:     8 Bytes --> 7 us, 1.1 MB/s
+Send&Recv: 8 Bytes --> 7 us, 1.1 MB/s
+BCAST:     8 Bytes --> 6 us, 1.2 MB/s
+Send&Recv: 8 Bytes --> 7 us, 1.2 MB/s
+BCAST:     8 Bytes --> 7 us, 1.2 MB/s
+Send&Recv: 8 Bytes --> 7 us, 1.1 MB/s
+BCAST:     8 Bytes --> 7 us, 1.1 MB/s
+Send&Recv: 8 Bytes --> 8 us, 1.0 MB/s
+BCAST:     8 Bytes --> 7 us, 1.2 MB/s
+Send&Recv: 8 Bytes --> 7 us, 1.1 MB/s
+
+#proc=8
+BCAST:     16 Bytes --> 13 us, 1.2 MB/s
+Send&Recv: 16 Bytes --> 11 us, 1.4 MB/s
+BCAST:     16 Bytes --> 7 us, 2.2 MB/s
+Send&Recv: 16 Bytes --> 7 us, 2.3 MB/s
+BCAST:     16 Bytes --> 7 us, 2.2 MB/s
+Send&Recv: 16 Bytes --> 7 us, 2.3 MB/s
+BCAST:     16 Bytes --> 7 us, 2.4 MB/s
+Send&Recv: 16 Bytes --> 8 us, 1.9 MB/s
+BCAST:     16 Bytes --> 7 us, 2.3 MB/s
+Send&Recv: 16 Bytes --> 7 us, 2.2 MB/s
+
+#proc=8
+BCAST:     32 Bytes --> 26 us, 1.2 MB/s
+Send&Recv: 32 Bytes --> 15 us, 2.1 MB/s
+BCAST:     32 Bytes --> 8 us, 3.9 MB/s
+Send&Recv: 32 Bytes --> 17 us, 1.9 MB/s
+BCAST:     32 Bytes --> 11 us, 2.8 MB/s
+Send&Recv: 32 Bytes --> 10 us, 3.2 MB/s
+BCAST:     32 Bytes --> 8 us, 4.1 MB/s
+Send&Recv: 32 Bytes --> 9 us, 3.6 MB/s
+BCAST:     32 Bytes --> 8 us, 3.8 MB/s
+Send&Recv: 32 Bytes --> 9 us, 3.5 MB/s
+
+#proc=8
+BCAST:     64 Bytes --> 9 us, 6.8 MB/s
+Send&Recv: 64 Bytes --> 19 us, 3.4 MB/s
+BCAST:     64 Bytes --> 12 us, 5.4 MB/s
+Send&Recv: 64 Bytes --> 9 us, 6.9 MB/s
+BCAST:     64 Bytes --> 8 us, 8.3 MB/s
+Send&Recv: 64 Bytes --> 9 us, 7.1 MB/s
+BCAST:     64 Bytes --> 8 us, 7.8 MB/s
+Send&Recv: 64 Bytes --> 8 us, 7.7 MB/s
+BCAST:     64 Bytes --> 8 us, 8.5 MB/s
+Send&Recv: 64 Bytes --> 17 us, 3.8 MB/s
+
+#proc=8
+BCAST:     128 Bytes --> 12 us, 10.6 MB/s
+Send&Recv: 128 Bytes --> 9 us, 14.5 MB/s
+BCAST:     128 Bytes --> 9 us, 14.8 MB/s
+Send&Recv: 128 Bytes --> 8 us, 15.6 MB/s
+BCAST:     128 Bytes --> 8 us, 15.5 MB/s
+Send&Recv: 128 Bytes --> 9 us, 14.5 MB/s
+BCAST:     128 Bytes --> 8 us, 15.5 MB/s
+Send&Recv: 128 Bytes --> 19 us, 6.7 MB/s
+BCAST:     128 Bytes --> 13 us, 9.7 MB/s
+Send&Recv: 128 Bytes --> 9 us, 14.6 MB/s
+
+#proc=8
+BCAST:     256 Bytes --> 9 us, 27.4 MB/s
+Send&Recv: 256 Bytes --> 10 us, 26.6 MB/s
+BCAST:     256 Bytes --> 9 us, 29.2 MB/s
+Send&Recv: 256 Bytes --> 8 us, 30.3 MB/s
+BCAST:     256 Bytes --> 10 us, 25.8 MB/s
+Send&Recv: 256 Bytes --> 17 us, 15.4 MB/s
+BCAST:     256 Bytes --> 12 us, 22.0 MB/s
+Send&Recv: 256 Bytes --> 9 us, 27.9 MB/s
+BCAST:     256 Bytes --> 8 us, 30.3 MB/s
+Send&Recv: 256 Bytes --> 10 us, 26.3 MB/s
+
+#proc=8
+BCAST:     512 Bytes --> 9 us, 59.0 MB/s
+Send&Recv: 512 Bytes --> 9 us, 54.6 MB/s
+BCAST:     512 Bytes --> 9 us, 58.2 MB/s
+Send&Recv: 512 Bytes --> 17 us, 30.1 MB/s
+BCAST:     512 Bytes --> 13 us, 40.4 MB/s
+Send&Recv: 512 Bytes --> 9 us, 58.5 MB/s
+BCAST:     512 Bytes --> 8 us, 61.0 MB/s
+Send&Recv: 512 Bytes --> 9 us, 55.1 MB/s
+BCAST:     512 Bytes --> 9 us, 54.7 MB/s
+Send&Recv: 512 Bytes --> 9 us, 57.6 MB/s
+
+#proc=8
+BCAST:     1024 Bytes --> 10 us, 105.2 MB/s
+Send&Recv: 1024 Bytes --> 19 us, 53.4 MB/s
+BCAST:     1024 Bytes --> 13 us, 79.7 MB/s
+Send&Recv: 1024 Bytes --> 11 us, 96.9 MB/s
+BCAST:     1024 Bytes --> 9 us, 111.6 MB/s
+Send&Recv: 1024 Bytes --> 11 us, 96.8 MB/s
+BCAST:     1024 Bytes --> 17 us, 60.9 MB/s
+Send&Recv: 1024 Bytes --> 10 us, 104.5 MB/s
+BCAST:     1024 Bytes --> 10 us, 105.2 MB/s
+Send&Recv: 1024 Bytes --> 18 us, 57.7 MB/s
+
+#proc=8
+BCAST:     2048 Bytes --> 133 us, 15.3 MB/s
+Send&Recv: 2048 Bytes --> 11 us, 187.5 MB/s
+BCAST:     2048 Bytes --> 10 us, 195.7 MB/s
+Send&Recv: 2048 Bytes --> 11 us, 183.6 MB/s
+BCAST:     2048 Bytes --> 11 us, 189.2 MB/s
+Send&Recv: 2048 Bytes --> 19 us, 107.7 MB/s
+BCAST:     2048 Bytes --> 13 us, 162.6 MB/s
+Send&Recv: 2048 Bytes --> 15 us, 138.5 MB/s
+BCAST:     2048 Bytes --> 13 us, 152.1 MB/s
+Send&Recv: 2048 Bytes --> 11 us, 186.9 MB/s
+
+#proc=8
+BCAST:     4096 Bytes --> 25 us, 164.6 MB/s
+Send&Recv: 4096 Bytes --> 15 us, 272.4 MB/s
+BCAST:     4096 Bytes --> 13 us, 312.1 MB/s
+Send&Recv: 4096 Bytes --> 21 us, 194.1 MB/s
+BCAST:     4096 Bytes --> 22 us, 184.9 MB/s
+Send&Recv: 4096 Bytes --> 15 us, 275.3 MB/s
+BCAST:     4096 Bytes --> 12 us, 332.5 MB/s
+Send&Recv: 4096 Bytes --> 15 us, 266.9 MB/s
+BCAST:     4096 Bytes --> 21 us, 197.7 MB/s
+Send&Recv: 4096 Bytes --> 17 us, 239.0 MB/s
+
+#proc=8
+BCAST:     8192 Bytes --> 19 us, 440.8 MB/s
+Send&Recv: 8192 Bytes --> 30 us, 277.6 MB/s
+BCAST:     8192 Bytes --> 21 us, 383.0 MB/s
+Send&Recv: 8192 Bytes --> 31 us, 266.1 MB/s
+BCAST:     8192 Bytes --> 24 us, 337.0 MB/s
+Send&Recv: 8192 Bytes --> 29 us, 284.6 MB/s
+BCAST:     8192 Bytes --> 24 us, 334.8 MB/s
+Send&Recv: 8192 Bytes --> 24 us, 343.7 MB/s
+BCAST:     8192 Bytes --> 26 us, 315.2 MB/s
+Send&Recv: 8192 Bytes --> 20 us, 410.6 MB/s
+
+#proc=8
+BCAST:     16384 Bytes --> 35 us, 465.7 MB/s
+Send&Recv: 16384 Bytes --> 91 us, 180.2 MB/s
+BCAST:     16384 Bytes --> 44 us, 368.8 MB/s
+Send&Recv: 16384 Bytes --> 47 us, 351.5 MB/s
+BCAST:     16384 Bytes --> 39 us, 424.3 MB/s
+Send&Recv: 16384 Bytes --> 46 us, 354.2 MB/s
+BCAST:     16384 Bytes --> 36 us, 454.1 MB/s
+Send&Recv: 16384 Bytes --> 46 us, 357.0 MB/s
+BCAST:     16384 Bytes --> 36 us, 460.9 MB/s
+Send&Recv: 16384 Bytes --> 45 us, 367.0 MB/s
+
+#proc=8
+BCAST:     32768 Bytes --> 82 us, 399.9 MB/s
+Send&Recv: 32768 Bytes --> 75 us, 434.4 MB/s
+BCAST:     32768 Bytes --> 62 us, 527.5 MB/s
+Send&Recv: 32768 Bytes --> 70 us, 470.7 MB/s
+BCAST:     32768 Bytes --> 62 us, 531.4 MB/s
+Send&Recv: 32768 Bytes --> 71 us, 461.1 MB/s
+BCAST:     32768 Bytes --> 59 us, 553.3 MB/s
+Send&Recv: 32768 Bytes --> 69 us, 473.0 MB/s
+BCAST:     32768 Bytes --> 61 us, 538.2 MB/s
+Send&Recv: 32768 Bytes --> 70 us, 467.2 MB/s
+
+#proc=8
+BCAST:     65536 Bytes --> 93 us, 705.6 MB/s
+Send&Recv: 65536 Bytes --> 294 us, 222.8 MB/s
+BCAST:     65536 Bytes --> 80 us, 815.0 MB/s
+Send&Recv: 65536 Bytes --> 140 us, 466.8 MB/s
+BCAST:     65536 Bytes --> 89 us, 736.0 MB/s
+Send&Recv: 65536 Bytes --> 150 us, 436.9 MB/s
+BCAST:     65536 Bytes --> 78 us, 839.3 MB/s
+Send&Recv: 65536 Bytes --> 137 us, 476.6 MB/s
+BCAST:     65536 Bytes --> 77 us, 848.9 MB/s
+Send&Recv: 65536 Bytes --> 139 us, 472.3 MB/s
+
+#proc=8
+BCAST:     131072 Bytes --> 262 us, 500.8 MB/s
+Send&Recv: 131072 Bytes --> 240 us, 546.4 MB/s
+BCAST:     131072 Bytes --> 141 us, 930.4 MB/s
+Send&Recv: 131072 Bytes --> 203 us, 646.2 MB/s
+BCAST:     131072 Bytes --> 142 us, 924.4 MB/s
+Send&Recv: 131072 Bytes --> 202 us, 649.3 MB/s
+BCAST:     131072 Bytes --> 144 us, 911.7 MB/s
+Send&Recv: 131072 Bytes --> 203 us, 646.4 MB/s
+BCAST:     131072 Bytes --> 142 us, 920.1 MB/s
+Send&Recv: 131072 Bytes --> 204 us, 643.4 MB/s
+
+#proc=8
+BCAST:     262144 Bytes --> 361 us, 726.5 MB/s
+Send&Recv: 262144 Bytes --> 339 us, 773.5 MB/s
+BCAST:     262144 Bytes --> 258 us, 1016.1 MB/s
+Send&Recv: 262144 Bytes --> 302 us, 866.7 MB/s
+BCAST:     262144 Bytes --> 254 us, 1031.4 MB/s
+Send&Recv: 262144 Bytes --> 303 us, 865.9 MB/s
+BCAST:     262144 Bytes --> 255 us, 1028.7 MB/s
+Send&Recv: 262144 Bytes --> 302 us, 868.6 MB/s
+BCAST:     262144 Bytes --> 258 us, 1014.2 MB/s
+Send&Recv: 262144 Bytes --> 301 us, 871.9 MB/s
+
+#proc=8
+BCAST:     524288 Bytes --> 422 us, 1243.7 MB/s
+Send&Recv: 524288 Bytes --> 562 us, 932.7 MB/s
+BCAST:     524288 Bytes --> 309 us, 1695.5 MB/s
+Send&Recv: 524288 Bytes --> 518 us, 1012.3 MB/s
+BCAST:     524288 Bytes --> 307 us, 1708.3 MB/s
+Send&Recv: 524288 Bytes --> 516 us, 1015.5 MB/s
+BCAST:     524288 Bytes --> 312 us, 1680.5 MB/s
+Send&Recv: 524288 Bytes --> 518 us, 1012.7 MB/s
+BCAST:     524288 Bytes --> 296 us, 1769.2 MB/s
+Send&Recv: 524288 Bytes --> 517 us, 1015.1 MB/s
+
+#proc=8
+BCAST:     1048576 Bytes --> 578 us, 1813.0 MB/s
+Send&Recv: 1048576 Bytes --> 1025 us, 1022.8 MB/s
+BCAST:     1048576 Bytes --> 676 us, 1551.0 MB/s
+Send&Recv: 1048576 Bytes --> 940 us, 1115.9 MB/s
+BCAST:     1048576 Bytes --> 582 us, 1800.9 MB/s
+Send&Recv: 1048576 Bytes --> 939 us, 1117.2 MB/s
+BCAST:     1048576 Bytes --> 577 us, 1818.7 MB/s
+Send&Recv: 1048576 Bytes --> 938 us, 1117.5 MB/s
+BCAST:     1048576 Bytes --> 570 us, 1840.7 MB/s
+Send&Recv: 1048576 Bytes --> 943 us, 1112.5 MB/s
+
+#proc=8
+BCAST:     2097152 Bytes --> 1343 us, 1561.1 MB/s
+Send&Recv: 2097152 Bytes --> 1936 us, 1083.3 MB/s
+BCAST:     2097152 Bytes --> 1237 us, 1695.4 MB/s
+Send&Recv: 2097152 Bytes --> 1780 us, 1178.2 MB/s
+BCAST:     2097152 Bytes --> 1123 us, 1867.0 MB/s
+Send&Recv: 2097152 Bytes --> 1780 us, 1178.1 MB/s
+BCAST:     2097152 Bytes --> 1124 us, 1866.0 MB/s
+Send&Recv: 2097152 Bytes --> 1785 us, 1174.8 MB/s
+BCAST:     2097152 Bytes --> 1124 us, 1865.7 MB/s
+Send&Recv: 2097152 Bytes --> 1779 us, 1178.9 MB/s
+
+#proc=8
+BCAST:     4194304 Bytes --> 2347 us, 1786.8 MB/s
+Send&Recv: 4194304 Bytes --> 4067 us, 1031.3 MB/s
+BCAST:     4194304 Bytes --> 1547 us, 2712.0 MB/s
+Send&Recv: 4194304 Bytes --> 3929 us, 1067.5 MB/s
+BCAST:     4194304 Bytes --> 1877 us, 2234.3 MB/s
+Send&Recv: 4194304 Bytes --> 3932 us, 1066.6 MB/s
+BCAST:     4194304 Bytes --> 1846 us, 2272.2 MB/s
+Send&Recv: 4194304 Bytes --> 3931 us, 1067.0 MB/s
+BCAST:     4194304 Bytes --> 1883 us, 2227.9 MB/s
+Send&Recv: 4194304 Bytes --> 3924 us, 1069.0 MB/s
+
+#proc=8
+BCAST:     8388608 Bytes --> 4181 us, 2006.2 MB/s
+Send&Recv: 8388608 Bytes --> 8118 us, 1033.4 MB/s
+BCAST:     8388608 Bytes --> 3206 us, 2616.6 MB/s
+Send&Recv: 8388608 Bytes --> 7737 us, 1084.3 MB/s
+BCAST:     8388608 Bytes --> 3217 us, 2607.9 MB/s
+Send&Recv: 8388608 Bytes --> 7738 us, 1084.1 MB/s
+BCAST:     8388608 Bytes --> 4048 us, 2072.1 MB/s
+Send&Recv: 8388608 Bytes --> 7944 us, 1055.9 MB/s
+BCAST:     8388608 Bytes --> 3399 us, 2467.7 MB/s
+Send&Recv: 8388608 Bytes --> 7779 us, 1078.4 MB/s
+
+#proc=8
+BCAST:     16777216 Bytes --> 8109 us, 2069.1 MB/s
+Send&Recv: 16777216 Bytes --> 17802 us, 942.4 MB/s
+BCAST:     16777216 Bytes --> 8701 us, 1928.2 MB/s
+Send&Recv: 16777216 Bytes --> 18083 us, 927.8 MB/s
+BCAST:     16777216 Bytes --> 8520 us, 1969.2 MB/s
+Send&Recv: 16777216 Bytes --> 18084 us, 927.7 MB/s
+BCAST:     16777216 Bytes --> 8512 us, 1971.1 MB/s
+Send&Recv: 16777216 Bytes --> 18063 us, 928.8 MB/s
+BCAST:     16777216 Bytes --> 8653 us, 1938.8 MB/s
+Send&Recv: 16777216 Bytes --> 18113 us, 926.3 MB/s
+
+#proc=8
+BCAST:     33554432 Bytes --> 18250 us, 1838.6 MB/s
+Send&Recv: 33554432 Bytes --> 37194 us, 902.1 MB/s
+BCAST:     33554432 Bytes --> 19490 us, 1721.6 MB/s
+Send&Recv: 33554432 Bytes --> 37362 us, 898.1 MB/s
+BCAST:     33554432 Bytes --> 22981 us, 1460.1 MB/s
+Send&Recv: 33554432 Bytes --> 37297 us, 899.7 MB/s
+BCAST:     33554432 Bytes --> 18873 us, 1777.9 MB/s
+Send&Recv: 33554432 Bytes --> 37624 us, 891.8 MB/s
+BCAST:     33554432 Bytes --> 18887 us, 1776.6 MB/s
+Send&Recv: 33554432 Bytes --> 37608 us, 892.2 MB/s
+
+#proc=8
+BCAST:     67108864 Bytes --> 38636 us, 1736.9 MB/s
+Send&Recv: 67108864 Bytes --> 74271 us, 903.6 MB/s
+BCAST:     67108864 Bytes --> 39432 us, 1701.9 MB/s
+Send&Recv: 67108864 Bytes --> 74381 us, 902.2 MB/s
+BCAST:     67108864 Bytes --> 39415 us, 1702.6 MB/s
+Send&Recv: 67108864 Bytes --> 74361 us, 902.5 MB/s
+BCAST:     67108864 Bytes --> 39428 us, 1702.1 MB/s
+Send&Recv: 67108864 Bytes --> 74369 us, 902.4 MB/s
+BCAST:     67108864 Bytes --> 39402 us, 1703.2 MB/s
+Send&Recv: 67108864 Bytes --> 74414 us, 901.8 MB/s
+
+r6i3n4:45064 rank=1, size=16. sbuf=0x2aaac77db010, rbuf=0x2aaacb7dc010
+r6i3n4:45066 rank=3, size=16. sbuf=0x2aaac77db010, rbuf=0x2aaacb7dc010
+r6i3n4:45063 rank=0, size=16. sbuf=0x2aaacf7dc010, rbuf=0x2aaad37dd010
+r6i3n4:45065 rank=2, size=16. sbuf=0x2aaac77db010, rbuf=0x2aaacb7dc010
+#proc=16
+BCAST:     1 Bytes --> 45 us, 0.0 MB/s
+Send&Recv: 1 Bytes --> 475 us, 0.0 MB/s
+BCAST:     1 Bytes --> 11 us, 0.1 MB/s
+Send&Recv: 1 Bytes --> 10 us, 0.1 MB/s
+BCAST:     1 Bytes --> 10 us, 0.1 MB/s
+Send&Recv: 1 Bytes --> 10 us, 0.1 MB/s
+BCAST:     1 Bytes --> 10 us, 0.1 MB/s
+Send&Recv: 1 Bytes --> 9 us, 0.1 MB/s
+BCAST:     1 Bytes --> 10 us, 0.1 MB/s
+Send&Recv: 1 Bytes --> 10 us, 0.1 MB/s
+
+#proc=16
+BCAST:     2 Bytes --> 11 us, 0.2 MB/s
+Send&Recv: 2 Bytes --> 9 us, 0.2 MB/s
+BCAST:     2 Bytes --> 10 us, 0.2 MB/s
+Send&Recv: 2 Bytes --> 9 us, 0.2 MB/s
+BCAST:     2 Bytes --> 15 us, 0.1 MB/s
+Send&Recv: 2 Bytes --> 14 us, 0.1 MB/s
+BCAST:     2 Bytes --> 10 us, 0.2 MB/s
+Send&Recv: 2 Bytes --> 10 us, 0.2 MB/s
+BCAST:     2 Bytes --> 10 us, 0.2 MB/s
+Send&Recv: 2 Bytes --> 10 us, 0.2 MB/s
+
+#proc=16
+BCAST:     4 Bytes --> 10 us, 0.4 MB/s
+Send&Recv: 4 Bytes --> 10 us, 0.4 MB/s
+BCAST:     4 Bytes --> 10 us, 0.4 MB/s
+Send&Recv: 4 Bytes --> 10 us, 0.4 MB/s
+BCAST:     4 Bytes --> 10 us, 0.4 MB/s
+Send&Recv: 4 Bytes --> 10 us, 0.4 MB/s
+BCAST:     4 Bytes --> 10 us, 0.4 MB/s
+Send&Recv: 4 Bytes --> 9 us, 0.4 MB/s
+BCAST:     4 Bytes --> 10 us, 0.4 MB/s
+Send&Recv: 4 Bytes --> 10 us, 0.4 MB/s
+
+#proc=16
+BCAST:     8 Bytes --> 10 us, 0.8 MB/s
+Send&Recv: 8 Bytes --> 10 us, 0.8 MB/s
+BCAST:     8 Bytes --> 11 us, 0.7 MB/s
+Send&Recv: 8 Bytes --> 9 us, 0.9 MB/s
+BCAST:     8 Bytes --> 10 us, 0.8 MB/s
+Send&Recv: 8 Bytes --> 10 us, 0.8 MB/s
+BCAST:     8 Bytes --> 10 us, 0.8 MB/s
+Send&Recv: 8 Bytes --> 10 us, 0.8 MB/s
+BCAST:     8 Bytes --> 9 us, 0.8 MB/s
+Send&Recv: 8 Bytes --> 9 us, 0.9 MB/s
+
+#proc=16
+BCAST:     16 Bytes --> 21 us, 0.8 MB/s
+Send&Recv: 16 Bytes --> 15 us, 1.0 MB/s
+BCAST:     16 Bytes --> 11 us, 1.5 MB/s
+Send&Recv: 16 Bytes --> 11 us, 1.5 MB/s
+BCAST:     16 Bytes --> 10 us, 1.5 MB/s
+Send&Recv: 16 Bytes --> 9 us, 1.7 MB/s
+BCAST:     16 Bytes --> 10 us, 1.5 MB/s
+Send&Recv: 16 Bytes --> 9 us, 1.7 MB/s
+BCAST:     16 Bytes --> 12 us, 1.4 MB/s
+Send&Recv: 16 Bytes --> 9 us, 1.7 MB/s
+
+#proc=16
+BCAST:     32 Bytes --> 30 us, 1.1 MB/s
+Send&Recv: 32 Bytes --> 18 us, 1.8 MB/s
+BCAST:     32 Bytes --> 13 us, 2.5 MB/s
+Send&Recv: 32 Bytes --> 21 us, 1.6 MB/s
+BCAST:     32 Bytes --> 15 us, 2.1 MB/s
+Send&Recv: 32 Bytes --> 11 us, 2.9 MB/s
+BCAST:     32 Bytes --> 12 us, 2.6 MB/s
+Send&Recv: 32 Bytes --> 11 us, 2.8 MB/s
+BCAST:     32 Bytes --> 12 us, 2.6 MB/s
+Send&Recv: 32 Bytes --> 12 us, 2.7 MB/s
+
+#proc=16
+BCAST:     64 Bytes --> 13 us, 5.0 MB/s
+Send&Recv: 64 Bytes --> 21 us, 3.1 MB/s
+BCAST:     64 Bytes --> 16 us, 4.1 MB/s
+Send&Recv: 64 Bytes --> 11 us, 5.6 MB/s
+BCAST:     64 Bytes --> 12 us, 5.4 MB/s
+Send&Recv: 64 Bytes --> 11 us, 5.9 MB/s
+BCAST:     64 Bytes --> 12 us, 5.4 MB/s
+Send&Recv: 64 Bytes --> 11 us, 6.0 MB/s
+BCAST:     64 Bytes --> 12 us, 5.2 MB/s
+Send&Recv: 64 Bytes --> 20 us, 3.2 MB/s
+
+#proc=16
+BCAST:     128 Bytes --> 16 us, 8.0 MB/s
+Send&Recv: 128 Bytes --> 13 us, 10.2 MB/s
+BCAST:     128 Bytes --> 12 us, 10.7 MB/s
+Send&Recv: 128 Bytes --> 11 us, 11.3 MB/s
+BCAST:     128 Bytes --> 12 us, 10.8 MB/s
+Send&Recv: 128 Bytes --> 12 us, 11.1 MB/s
+BCAST:     128 Bytes --> 12 us, 11.0 MB/s
+Send&Recv: 128 Bytes --> 20 us, 6.3 MB/s
+BCAST:     128 Bytes --> 16 us, 8.1 MB/s
+Send&Recv: 128 Bytes --> 12 us, 10.9 MB/s
+
+#proc=16
+BCAST:     256 Bytes --> 13 us, 19.6 MB/s
+Send&Recv: 256 Bytes --> 13 us, 19.9 MB/s
+BCAST:     256 Bytes --> 12 us, 21.4 MB/s
+Send&Recv: 256 Bytes --> 11 us, 23.2 MB/s
+BCAST:     256 Bytes --> 13 us, 20.4 MB/s
+Send&Recv: 256 Bytes --> 20 us, 12.7 MB/s
+BCAST:     256 Bytes --> 16 us, 16.2 MB/s
+Send&Recv: 256 Bytes --> 11 us, 22.5 MB/s
+BCAST:     256 Bytes --> 12 us, 21.4 MB/s
+Send&Recv: 256 Bytes --> 12 us, 22.2 MB/s
+
+#proc=16
+BCAST:     512 Bytes --> 13 us, 40.2 MB/s
+Send&Recv: 512 Bytes --> 12 us, 42.2 MB/s
+BCAST:     512 Bytes --> 13 us, 40.0 MB/s
+Send&Recv: 512 Bytes --> 20 us, 25.4 MB/s
+BCAST:     512 Bytes --> 16 us, 32.4 MB/s
+Send&Recv: 512 Bytes --> 12 us, 42.7 MB/s
+BCAST:     512 Bytes --> 12 us, 41.9 MB/s
+Send&Recv: 512 Bytes --> 12 us, 42.7 MB/s
+BCAST:     512 Bytes --> 12 us, 41.4 MB/s
+Send&Recv: 512 Bytes --> 12 us, 43.0 MB/s
+
+#proc=16
+BCAST:     1024 Bytes --> 14 us, 74.4 MB/s
+Send&Recv: 1024 Bytes --> 23 us, 45.2 MB/s
+BCAST:     1024 Bytes --> 17 us, 61.6 MB/s
+Send&Recv: 1024 Bytes --> 14 us, 74.4 MB/s
+BCAST:     1024 Bytes --> 13 us, 77.0 MB/s
+Send&Recv: 1024 Bytes --> 13 us, 78.3 MB/s
+BCAST:     1024 Bytes --> 13 us, 78.4 MB/s
+Send&Recv: 1024 Bytes --> 13 us, 76.7 MB/s
+BCAST:     1024 Bytes --> 14 us, 74.2 MB/s
+Send&Recv: 1024 Bytes --> 21 us, 48.0 MB/s
+
+#proc=16
+BCAST:     2048 Bytes --> 186 us, 11.0 MB/s
+Send&Recv: 2048 Bytes --> 17 us, 123.3 MB/s
+BCAST:     2048 Bytes --> 15 us, 139.9 MB/s
+Send&Recv: 2048 Bytes --> 15 us, 137.1 MB/s
+BCAST:     2048 Bytes --> 16 us, 126.0 MB/s
+Send&Recv: 2048 Bytes --> 22 us, 91.3 MB/s
+BCAST:     2048 Bytes --> 14 us, 149.7 MB/s
+Send&Recv: 2048 Bytes --> 19 us, 109.1 MB/s
+BCAST:     2048 Bytes --> 17 us, 118.8 MB/s
+Send&Recv: 2048 Bytes --> 15 us, 136.4 MB/s
+
+#proc=16
+BCAST:     4096 Bytes --> 29 us, 141.9 MB/s
+Send&Recv: 4096 Bytes --> 24 us, 172.8 MB/s
+BCAST:     4096 Bytes --> 16 us, 253.9 MB/s
+Send&Recv: 4096 Bytes --> 27 us, 149.5 MB/s
+BCAST:     4096 Bytes --> 24 us, 170.7 MB/s
+Send&Recv: 4096 Bytes --> 19 us, 210.2 MB/s
+BCAST:     4096 Bytes --> 16 us, 256.4 MB/s
+Send&Recv: 4096 Bytes --> 21 us, 198.0 MB/s
+BCAST:     4096 Bytes --> 23 us, 176.7 MB/s
+Send&Recv: 4096 Bytes --> 23 us, 178.7 MB/s
+
+#proc=16
+BCAST:     8192 Bytes --> 22 us, 377.4 MB/s
+Send&Recv: 8192 Bytes --> 48 us, 169.6 MB/s
+BCAST:     8192 Bytes --> 27 us, 307.0 MB/s
+Send&Recv: 8192 Bytes --> 40 us, 207.2 MB/s
+BCAST:     8192 Bytes --> 28 us, 292.7 MB/s
+Send&Recv: 8192 Bytes --> 38 us, 215.0 MB/s
+BCAST:     8192 Bytes --> 29 us, 282.5 MB/s
+Send&Recv: 8192 Bytes --> 32 us, 252.5 MB/s
+BCAST:     8192 Bytes --> 27 us, 299.5 MB/s
+Send&Recv: 8192 Bytes --> 29 us, 281.7 MB/s
+
+#proc=16
+BCAST:     16384 Bytes --> 38 us, 431.1 MB/s
+Send&Recv: 16384 Bytes --> 147 us, 111.5 MB/s
+BCAST:     16384 Bytes --> 45 us, 363.5 MB/s
+Send&Recv: 16384 Bytes --> 101 us, 161.6 MB/s
+BCAST:     16384 Bytes --> 39 us, 421.8 MB/s
+Send&Recv: 16384 Bytes --> 100 us, 164.2 MB/s
+BCAST:     16384 Bytes --> 42 us, 392.8 MB/s
+Send&Recv: 16384 Bytes --> 100 us, 163.8 MB/s
+BCAST:     16384 Bytes --> 37 us, 438.3 MB/s
+Send&Recv: 16384 Bytes --> 98 us, 167.0 MB/s
+
+#proc=16
+BCAST:     32768 Bytes --> 104 us, 316.0 MB/s
+Send&Recv: 32768 Bytes --> 152 us, 216.1 MB/s
+BCAST:     32768 Bytes --> 64 us, 508.8 MB/s
+Send&Recv: 32768 Bytes --> 144 us, 227.0 MB/s
+BCAST:     32768 Bytes --> 64 us, 509.5 MB/s
+Send&Recv: 32768 Bytes --> 143 us, 228.7 MB/s
+BCAST:     32768 Bytes --> 65 us, 504.0 MB/s
+Send&Recv: 32768 Bytes --> 143 us, 228.6 MB/s
+BCAST:     32768 Bytes --> 67 us, 485.6 MB/s
+Send&Recv: 32768 Bytes --> 145 us, 226.4 MB/s
+
+#proc=16
+BCAST:     65536 Bytes --> 112 us, 585.0 MB/s
+Send&Recv: 65536 Bytes --> 680 us, 96.4 MB/s
+BCAST:     65536 Bytes --> 91 us, 720.3 MB/s
+Send&Recv: 65536 Bytes --> 318 us, 206.1 MB/s
+BCAST:     65536 Bytes --> 94 us, 694.6 MB/s
+Send&Recv: 65536 Bytes --> 300 us, 218.1 MB/s
+BCAST:     65536 Bytes --> 89 us, 737.2 MB/s
+Send&Recv: 65536 Bytes --> 308 us, 212.8 MB/s
+BCAST:     65536 Bytes --> 86 us, 763.1 MB/s
+Send&Recv: 65536 Bytes --> 308 us, 212.5 MB/s
+
+#proc=16
+BCAST:     131072 Bytes --> 240 us, 545.2 MB/s
+Send&Recv: 131072 Bytes --> 481 us, 272.2 MB/s
+BCAST:     131072 Bytes --> 155 us, 848.1 MB/s
+Send&Recv: 131072 Bytes --> 420 us, 312.1 MB/s
+BCAST:     131072 Bytes --> 159 us, 826.1 MB/s
+Send&Recv: 131072 Bytes --> 410 us, 319.9 MB/s
+BCAST:     131072 Bytes --> 154 us, 851.6 MB/s
+Send&Recv: 131072 Bytes --> 408 us, 321.2 MB/s
+BCAST:     131072 Bytes --> 154 us, 852.6 MB/s
+Send&Recv: 131072 Bytes --> 409 us, 320.5 MB/s
+
+#proc=16
+BCAST:     262144 Bytes --> 330 us, 793.9 MB/s
+Send&Recv: 262144 Bytes --> 618 us, 424.1 MB/s
+BCAST:     262144 Bytes --> 299 us, 876.8 MB/s
+Send&Recv: 262144 Bytes --> 595 us, 440.8 MB/s
+BCAST:     262144 Bytes --> 298 us, 878.3 MB/s
+Send&Recv: 262144 Bytes --> 592 us, 442.5 MB/s
+BCAST:     262144 Bytes --> 302 us, 869.2 MB/s
+Send&Recv: 262144 Bytes --> 593 us, 442.2 MB/s
+BCAST:     262144 Bytes --> 292 us, 897.9 MB/s
+Send&Recv: 262144 Bytes --> 594 us, 441.0 MB/s
+
+#proc=16
+BCAST:     524288 Bytes --> 1630 us, 321.7 MB/s
+Send&Recv: 524288 Bytes --> 938 us, 558.8 MB/s
+BCAST:     524288 Bytes --> 641 us, 818.2 MB/s
+Send&Recv: 524288 Bytes --> 874 us, 599.9 MB/s
+BCAST:     524288 Bytes --> 628 us, 834.8 MB/s
+Send&Recv: 524288 Bytes --> 871 us, 601.8 MB/s
+BCAST:     524288 Bytes --> 646 us, 812.1 MB/s
+Send&Recv: 524288 Bytes --> 873 us, 600.7 MB/s
+BCAST:     524288 Bytes --> 621 us, 844.4 MB/s
+Send&Recv: 524288 Bytes --> 870 us, 602.8 MB/s
+
+#proc=16
+BCAST:     1048576 Bytes --> 1566 us, 669.8 MB/s
+Send&Recv: 1048576 Bytes --> 3988 us, 262.9 MB/s
+BCAST:     1048576 Bytes --> 1282 us, 817.7 MB/s
+Send&Recv: 1048576 Bytes --> 1509 us, 695.0 MB/s
+BCAST:     1048576 Bytes --> 1213 us, 864.7 MB/s
+Send&Recv: 1048576 Bytes --> 1502 us, 698.2 MB/s
+BCAST:     1048576 Bytes --> 1213 us, 864.4 MB/s
+Send&Recv: 1048576 Bytes --> 1500 us, 699.1 MB/s
+BCAST:     1048576 Bytes --> 1209 us, 867.4 MB/s
+Send&Recv: 1048576 Bytes --> 1501 us, 698.5 MB/s
+
+#proc=16
+BCAST:     2097152 Bytes --> 4211 us, 498.1 MB/s
+Send&Recv: 2097152 Bytes --> 2998 us, 699.5 MB/s
+BCAST:     2097152 Bytes --> 2393 us, 876.3 MB/s
+Send&Recv: 2097152 Bytes --> 2769 us, 757.3 MB/s
+BCAST:     2097152 Bytes --> 2371 us, 884.5 MB/s
+Send&Recv: 2097152 Bytes --> 2765 us, 758.5 MB/s
+BCAST:     2097152 Bytes --> 2368 us, 885.5 MB/s
+Send&Recv: 2097152 Bytes --> 2767 us, 757.8 MB/s
+BCAST:     2097152 Bytes --> 2364 us, 887.0 MB/s
+Send&Recv: 2097152 Bytes --> 5499 us, 381.4 MB/s
+
+#proc=16
+BCAST:     4194304 Bytes --> 4359 us, 962.3 MB/s
+Send&Recv: 4194304 Bytes --> 6891 us, 608.7 MB/s
+BCAST:     4194304 Bytes --> 4293 us, 977.0 MB/s
+Send&Recv: 4194304 Bytes --> 6761 us, 620.4 MB/s
+BCAST:     4194304 Bytes --> 3492 us, 1201.0 MB/s
+Send&Recv: 4194304 Bytes --> 6758 us, 620.6 MB/s
+BCAST:     4194304 Bytes --> 3073 us, 1365.0 MB/s
+Send&Recv: 4194304 Bytes --> 6757 us, 620.7 MB/s
+BCAST:     4194304 Bytes --> 4243 us, 988.5 MB/s
+Send&Recv: 4194304 Bytes --> 6770 us, 619.5 MB/s
+
+#proc=16
+BCAST:     8388608 Bytes --> 5757 us, 1457.2 MB/s
+Send&Recv: 8388608 Bytes --> 13702 us, 612.2 MB/s
+BCAST:     8388608 Bytes --> 5379 us, 1559.4 MB/s
+Send&Recv: 8388608 Bytes --> 13243 us, 633.4 MB/s
+BCAST:     8388608 Bytes --> 5359 us, 1565.4 MB/s
+Send&Recv: 8388608 Bytes --> 13247 us, 633.2 MB/s
+BCAST:     8388608 Bytes --> 5374 us, 1560.9 MB/s
+Send&Recv: 8388608 Bytes --> 13270 us, 632.1 MB/s
+BCAST:     8388608 Bytes --> 5325 us, 1575.2 MB/s
+Send&Recv: 8388608 Bytes --> 13258 us, 632.7 MB/s
+
+#proc=16
+BCAST:     16777216 Bytes --> 10041 us, 1670.8 MB/s
+Send&Recv: 16777216 Bytes --> 28850 us, 581.5 MB/s
+BCAST:     16777216 Bytes --> 9811 us, 1710.0 MB/s
+Send&Recv: 16777216 Bytes --> 29045 us, 577.6 MB/s
+BCAST:     16777216 Bytes --> 10870 us, 1543.5 MB/s
+Send&Recv: 16777216 Bytes --> 29383 us, 571.0 MB/s
+BCAST:     16777216 Bytes --> 9882 us, 1697.8 MB/s
+Send&Recv: 16777216 Bytes --> 29140 us, 575.7 MB/s
+BCAST:     16777216 Bytes --> 10024 us, 1673.7 MB/s
+Send&Recv: 16777216 Bytes --> 29147 us, 575.6 MB/s
+
+#proc=16
+BCAST:     33554432 Bytes --> 20395 us, 1645.2 MB/s
+Send&Recv: 33554432 Bytes --> 58987 us, 568.8 MB/s
+BCAST:     33554432 Bytes --> 21232 us, 1580.3 MB/s
+Send&Recv: 33554432 Bytes --> 59450 us, 564.4 MB/s
+BCAST:     33554432 Bytes --> 21168 us, 1585.2 MB/s
+Send&Recv: 33554432 Bytes --> 59440 us, 564.5 MB/s
+BCAST:     33554432 Bytes --> 22288 us, 1505.5 MB/s
+Send&Recv: 33554432 Bytes --> 59474 us, 564.2 MB/s
+BCAST:     33554432 Bytes --> 21228 us, 1580.7 MB/s
+Send&Recv: 33554432 Bytes --> 59476 us, 564.2 MB/s
+
+#proc=16
+BCAST:     67108864 Bytes --> 48977 us, 1370.2 MB/s
+Send&Recv: 67108864 Bytes --> 117574 us, 570.8 MB/s
+BCAST:     67108864 Bytes --> 43606 us, 1539.0 MB/s
+Send&Recv: 67108864 Bytes --> 118091 us, 568.3 MB/s
+BCAST:     67108864 Bytes --> 43598 us, 1539.3 MB/s
+Send&Recv: 67108864 Bytes --> 117644 us, 570.4 MB/s
+BCAST:     67108864 Bytes --> 43620 us, 1538.5 MB/s
+Send&Recv: 67108864 Bytes --> 118074 us, 568.4 MB/s
+BCAST:     67108864 Bytes --> 43685 us, 1536.2 MB/s
+Send&Recv: 67108864 Bytes --> 118089 us, 568.3 MB/s
+
+r6i3n4:45137 rank=0, size=32. sbuf=0x2aaacf7dc010, rbuf=0x2aaad37dd010
+r6i3n4:45139 rank=2, size=32. sbuf=0x2aaac77db010, rbuf=0x2aaacb7dc010
+r6i3n4:45138 rank=1, size=32. sbuf=0x2aaac77db010, rbuf=0x2aaacb7dc010
+r6i3n4:45140 rank=3, size=32. sbuf=0x2aaac77db010, rbuf=0x2aaacb7dc010
+#proc=32
+BCAST:     1 Bytes --> 60 us, 0.0 MB/s
+Send&Recv: 1 Bytes --> 1169 us, 0.0 MB/s
+BCAST:     1 Bytes --> 16 us, 0.1 MB/s
+Send&Recv: 1 Bytes --> 17 us, 0.1 MB/s
+BCAST:     1 Bytes --> 14 us, 0.1 MB/s
+Send&Recv: 1 Bytes --> 15 us, 0.1 MB/s
+BCAST:     1 Bytes --> 15 us, 0.1 MB/s
+Send&Recv: 1 Bytes --> 15 us, 0.1 MB/s
+BCAST:     1 Bytes --> 13 us, 0.1 MB/s
+Send&Recv: 1 Bytes --> 15 us, 0.1 MB/s
+
+#proc=32
+BCAST:     2 Bytes --> 14 us, 0.1 MB/s
+Send&Recv: 2 Bytes --> 16 us, 0.1 MB/s
+BCAST:     2 Bytes --> 15 us, 0.1 MB/s
+Send&Recv: 2 Bytes --> 15 us, 0.1 MB/s
+BCAST:     2 Bytes --> 14 us, 0.1 MB/s
+Send&Recv: 2 Bytes --> 14 us, 0.1 MB/s
+BCAST:     2 Bytes --> 14 us, 0.1 MB/s
+Send&Recv: 2 Bytes --> 14 us, 0.1 MB/s
+BCAST:     2 Bytes --> 14 us, 0.1 MB/s
+Send&Recv: 2 Bytes --> 14 us, 0.1 MB/s
+
+#proc=32
+BCAST:     4 Bytes --> 14 us, 0.3 MB/s
+Send&Recv: 4 Bytes --> 15 us, 0.3 MB/s
+BCAST:     4 Bytes --> 14 us, 0.3 MB/s
+Send&Recv: 4 Bytes --> 14 us, 0.3 MB/s
+BCAST:     4 Bytes --> 14 us, 0.3 MB/s
+Send&Recv: 4 Bytes --> 15 us, 0.3 MB/s
+BCAST:     4 Bytes --> 14 us, 0.3 MB/s
+Send&Recv: 4 Bytes --> 14 us, 0.3 MB/s
+BCAST:     4 Bytes --> 14 us, 0.3 MB/s
+Send&Recv: 4 Bytes --> 14 us, 0.3 MB/s
+
+#proc=32
+BCAST:     8 Bytes --> 14 us, 0.6 MB/s
+Send&Recv: 8 Bytes --> 17 us, 0.5 MB/s
+BCAST:     8 Bytes --> 16 us, 0.5 MB/s
+Send&Recv: 8 Bytes --> 16 us, 0.5 MB/s
+BCAST:     8 Bytes --> 14 us, 0.6 MB/s
+Send&Recv: 8 Bytes --> 14 us, 0.6 MB/s
+BCAST:     8 Bytes --> 14 us, 0.6 MB/s
+Send&Recv: 8 Bytes --> 15 us, 0.5 MB/s
+BCAST:     8 Bytes --> 14 us, 0.6 MB/s
+Send&Recv: 8 Bytes --> 14 us, 0.6 MB/s
+
+#proc=32
+BCAST:     16 Bytes --> 30 us, 0.5 MB/s
+Send&Recv: 16 Bytes --> 22 us, 0.7 MB/s
+BCAST:     16 Bytes --> 15 us, 1.0 MB/s
+Send&Recv: 16 Bytes --> 23 us, 0.7 MB/s
+BCAST:     16 Bytes --> 14 us, 1.1 MB/s
+Send&Recv: 16 Bytes --> 15 us, 1.1 MB/s
+BCAST:     16 Bytes --> 15 us, 1.0 MB/s
+Send&Recv: 16 Bytes --> 15 us, 1.1 MB/s
+BCAST:     16 Bytes --> 14 us, 1.1 MB/s
+Send&Recv: 16 Bytes --> 15 us, 1.1 MB/s
+
+#proc=32
+BCAST:     32 Bytes --> 34 us, 0.9 MB/s
+Send&Recv: 32 Bytes --> 23 us, 1.4 MB/s
+BCAST:     32 Bytes --> 16 us, 2.0 MB/s
+Send&Recv: 32 Bytes --> 26 us, 1.2 MB/s
+BCAST:     32 Bytes --> 19 us, 1.7 MB/s
+Send&Recv: 32 Bytes --> 17 us, 1.9 MB/s
+BCAST:     32 Bytes --> 16 us, 2.0 MB/s
+Send&Recv: 32 Bytes --> 16 us, 2.0 MB/s
+BCAST:     32 Bytes --> 16 us, 2.0 MB/s
+Send&Recv: 32 Bytes --> 16 us, 2.0 MB/s
+
+#proc=32
+BCAST:     64 Bytes --> 17 us, 3.9 MB/s
+Send&Recv: 64 Bytes --> 25 us, 2.5 MB/s
+BCAST:     64 Bytes --> 20 us, 3.2 MB/s
+Send&Recv: 64 Bytes --> 16 us, 4.0 MB/s
+BCAST:     64 Bytes --> 16 us, 3.9 MB/s
+Send&Recv: 64 Bytes --> 16 us, 4.0 MB/s
+BCAST:     64 Bytes --> 16 us, 4.1 MB/s
+Send&Recv: 64 Bytes --> 16 us, 4.0 MB/s
+BCAST:     64 Bytes --> 16 us, 4.0 MB/s
+Send&Recv: 64 Bytes --> 25 us, 2.5 MB/s
+
+#proc=32
+BCAST:     128 Bytes --> 20 us, 6.3 MB/s
+Send&Recv: 128 Bytes --> 19 us, 6.8 MB/s
+BCAST:     128 Bytes --> 17 us, 7.6 MB/s
+Send&Recv: 128 Bytes --> 16 us, 7.9 MB/s
+BCAST:     128 Bytes --> 16 us, 8.2 MB/s
+Send&Recv: 128 Bytes --> 16 us, 8.1 MB/s
+BCAST:     128 Bytes --> 16 us, 8.2 MB/s
+Send&Recv: 128 Bytes --> 25 us, 5.1 MB/s
+BCAST:     128 Bytes --> 19 us, 6.6 MB/s
+Send&Recv: 128 Bytes --> 16 us, 7.9 MB/s
+
+#proc=32
+BCAST:     256 Bytes --> 17 us, 14.9 MB/s
+Send&Recv: 256 Bytes --> 23 us, 11.2 MB/s
+BCAST:     256 Bytes --> 16 us, 15.8 MB/s
+Send&Recv: 256 Bytes --> 16 us, 15.7 MB/s
+BCAST:     256 Bytes --> 16 us, 16.2 MB/s
+Send&Recv: 256 Bytes --> 25 us, 10.3 MB/s
+BCAST:     256 Bytes --> 19 us, 13.4 MB/s
+Send&Recv: 256 Bytes --> 17 us, 15.4 MB/s
+BCAST:     256 Bytes --> 16 us, 16.5 MB/s
+Send&Recv: 256 Bytes --> 17 us, 15.2 MB/s
+
+#proc=32
+BCAST:     512 Bytes --> 17 us, 30.9 MB/s
+Send&Recv: 512 Bytes --> 21 us, 24.7 MB/s
+BCAST:     512 Bytes --> 17 us, 31.0 MB/s
+Send&Recv: 512 Bytes --> 25 us, 20.3 MB/s
+BCAST:     512 Bytes --> 20 us, 25.3 MB/s
+Send&Recv: 512 Bytes --> 17 us, 30.2 MB/s
+BCAST:     512 Bytes --> 37 us, 14.0 MB/s
+Send&Recv: 512 Bytes --> 18 us, 27.9 MB/s
+BCAST:     512 Bytes --> 16 us, 31.3 MB/s
+Send&Recv: 512 Bytes --> 17 us, 30.0 MB/s
+
+#proc=32
+BCAST:     1024 Bytes --> 17 us, 58.5 MB/s
+Send&Recv: 1024 Bytes --> 31 us, 33.2 MB/s
+BCAST:     1024 Bytes --> 21 us, 48.6 MB/s
+Send&Recv: 1024 Bytes --> 20 us, 50.3 MB/s
+BCAST:     1024 Bytes --> 19 us, 55.1 MB/s
+Send&Recv: 1024 Bytes --> 20 us, 51.0 MB/s
+BCAST:     1024 Bytes --> 17 us, 60.4 MB/s
+Send&Recv: 1024 Bytes --> 21 us, 49.8 MB/s
+BCAST:     1024 Bytes --> 17 us, 60.7 MB/s
+Send&Recv: 1024 Bytes --> 29 us, 35.8 MB/s
+
+#proc=32
+BCAST:     2048 Bytes --> 249 us, 8.2 MB/s
+Send&Recv: 2048 Bytes --> 28 us, 72.4 MB/s
+BCAST:     2048 Bytes --> 20 us, 102.9 MB/s
+Send&Recv: 2048 Bytes --> 24 us, 85.5 MB/s
+BCAST:     2048 Bytes --> 19 us, 110.4 MB/s
+Send&Recv: 2048 Bytes --> 32 us, 64.3 MB/s
+BCAST:     2048 Bytes --> 23 us, 90.6 MB/s
+Send&Recv: 2048 Bytes --> 27 us, 74.6 MB/s
+BCAST:     2048 Bytes --> 23 us, 90.1 MB/s
+Send&Recv: 2048 Bytes --> 23 us, 88.4 MB/s
+
+#proc=32
+BCAST:     4096 Bytes --> 34 us, 121.9 MB/s
+Send&Recv: 4096 Bytes --> 41 us, 99.9 MB/s
+BCAST:     4096 Bytes --> 22 us, 186.5 MB/s
+Send&Recv: 4096 Bytes --> 40 us, 102.7 MB/s
+BCAST:     4096 Bytes --> 29 us, 139.9 MB/s
+Send&Recv: 4096 Bytes --> 32 us, 127.5 MB/s
+BCAST:     4096 Bytes --> 24 us, 167.7 MB/s
+Send&Recv: 4096 Bytes --> 33 us, 123.6 MB/s
+BCAST:     4096 Bytes --> 29 us, 141.0 MB/s
+Send&Recv: 4096 Bytes --> 36 us, 114.4 MB/s
+
+#proc=32
+BCAST:     8192 Bytes --> 29 us, 283.3 MB/s
+Send&Recv: 8192 Bytes --> 76 us, 107.2 MB/s
+BCAST:     8192 Bytes --> 36 us, 225.0 MB/s
+Send&Recv: 8192 Bytes --> 59 us, 138.1 MB/s
+BCAST:     8192 Bytes --> 34 us, 242.9 MB/s
+Send&Recv: 8192 Bytes --> 57 us, 144.5 MB/s
+BCAST:     8192 Bytes --> 32 us, 253.9 MB/s
+Send&Recv: 8192 Bytes --> 53 us, 155.8 MB/s
+BCAST:     8192 Bytes --> 32 us, 253.7 MB/s
+Send&Recv: 8192 Bytes --> 48 us, 170.0 MB/s
+
+#proc=32
+BCAST:     16384 Bytes --> 42 us, 386.0 MB/s
+Send&Recv: 16384 Bytes --> 272 us, 60.2 MB/s
+BCAST:     16384 Bytes --> 46 us, 359.1 MB/s
+Send&Recv: 16384 Bytes --> 218 us, 75.3 MB/s
+BCAST:     16384 Bytes --> 48 us, 339.4 MB/s
+Send&Recv: 16384 Bytes --> 218 us, 75.2 MB/s
+BCAST:     16384 Bytes --> 46 us, 355.8 MB/s
+Send&Recv: 16384 Bytes --> 215 us, 76.2 MB/s
+BCAST:     16384 Bytes --> 49 us, 337.3 MB/s
+Send&Recv: 16384 Bytes --> 215 us, 76.3 MB/s
+
+#proc=32
+BCAST:     32768 Bytes --> 109 us, 299.3 MB/s
+Send&Recv: 32768 Bytes --> 315 us, 103.9 MB/s
+BCAST:     32768 Bytes --> 69 us, 471.6 MB/s
+Send&Recv: 32768 Bytes --> 304 us, 107.7 MB/s
+BCAST:     32768 Bytes --> 69 us, 474.5 MB/s
+Send&Recv: 32768 Bytes --> 303 us, 108.0 MB/s
+BCAST:     32768 Bytes --> 67 us, 490.2 MB/s
+Send&Recv: 32768 Bytes --> 299 us, 109.5 MB/s
+BCAST:     32768 Bytes --> 75 us, 437.8 MB/s
+Send&Recv: 32768 Bytes --> 301 us, 108.8 MB/s
+
+#proc=32
+BCAST:     65536 Bytes --> 120 us, 547.5 MB/s
+Send&Recv: 65536 Bytes --> 1469 us, 44.6 MB/s
+BCAST:     65536 Bytes --> 99 us, 660.9 MB/s
+Send&Recv: 65536 Bytes --> 669 us, 97.9 MB/s
+BCAST:     65536 Bytes --> 96 us, 685.9 MB/s
+Send&Recv: 65536 Bytes --> 629 us, 104.2 MB/s
+BCAST:     65536 Bytes --> 95 us, 693.0 MB/s
+Send&Recv: 65536 Bytes --> 632 us, 103.6 MB/s
+BCAST:     65536 Bytes --> 96 us, 679.3 MB/s
+Send&Recv: 65536 Bytes --> 637 us, 102.9 MB/s
+
+#proc=32
+BCAST:     131072 Bytes --> 247 us, 530.9 MB/s
+Send&Recv: 131072 Bytes --> 976 us, 134.3 MB/s
+BCAST:     131072 Bytes --> 164 us, 799.0 MB/s
+Send&Recv: 131072 Bytes --> 845 us, 155.1 MB/s
+BCAST:     131072 Bytes --> 161 us, 815.2 MB/s
+Send&Recv: 131072 Bytes --> 844 us, 155.3 MB/s
+BCAST:     131072 Bytes --> 166 us, 789.6 MB/s
+Send&Recv: 131072 Bytes --> 849 us, 154.5 MB/s
+BCAST:     131072 Bytes --> 164 us, 797.0 MB/s
+Send&Recv: 131072 Bytes --> 845 us, 155.1 MB/s
+
+#proc=32
+BCAST:     262144 Bytes --> 347 us, 755.7 MB/s
+Send&Recv: 262144 Bytes --> 1213 us, 216.0 MB/s
+BCAST:     262144 Bytes --> 308 us, 851.9 MB/s
+Send&Recv: 262144 Bytes --> 1183 us, 221.5 MB/s
+BCAST:     262144 Bytes --> 311 us, 841.8 MB/s
+Send&Recv: 262144 Bytes --> 1184 us, 221.5 MB/s
+BCAST:     262144 Bytes --> 305 us, 860.2 MB/s
+Send&Recv: 262144 Bytes --> 1179 us, 222.4 MB/s
+BCAST:     262144 Bytes --> 305 us, 859.3 MB/s
+Send&Recv: 262144 Bytes --> 1183 us, 221.6 MB/s
+
+#proc=32
+BCAST:     524288 Bytes --> 1757 us, 298.3 MB/s
+Send&Recv: 524288 Bytes --> 1886 us, 278.1 MB/s
+BCAST:     524288 Bytes --> 761 us, 689.2 MB/s
+Send&Recv: 524288 Bytes --> 1830 us, 286.6 MB/s
+BCAST:     524288 Bytes --> 693 us, 756.3 MB/s
+Send&Recv: 524288 Bytes --> 1818 us, 288.3 MB/s
+BCAST:     524288 Bytes --> 699 us, 750.2 MB/s
+Send&Recv: 524288 Bytes --> 1818 us, 288.4 MB/s
+BCAST:     524288 Bytes --> 683 us, 767.9 MB/s
+Send&Recv: 524288 Bytes --> 1816 us, 288.8 MB/s
+
+#proc=32
+BCAST:     1048576 Bytes --> 1720 us, 609.5 MB/s
+Send&Recv: 1048576 Bytes --> 3230 us, 324.6 MB/s
+BCAST:     1048576 Bytes --> 1256 us, 834.6 MB/s
+Send&Recv: 1048576 Bytes --> 3117 us, 336.4 MB/s
+BCAST:     1048576 Bytes --> 1259 us, 833.1 MB/s
+Send&Recv: 1048576 Bytes --> 3117 us, 336.5 MB/s
+BCAST:     1048576 Bytes --> 1273 us, 824.0 MB/s
+Send&Recv: 1048576 Bytes --> 3112 us, 336.9 MB/s
+BCAST:     1048576 Bytes --> 1282 us, 817.6 MB/s
+Send&Recv: 1048576 Bytes --> 3110 us, 337.2 MB/s
+
+#proc=32
+BCAST:     2097152 Bytes --> 4275 us, 490.6 MB/s
+Send&Recv: 2097152 Bytes --> 5914 us, 354.6 MB/s
+BCAST:     2097152 Bytes --> 2559 us, 819.5 MB/s
+Send&Recv: 2097152 Bytes --> 5707 us, 367.5 MB/s
+BCAST:     2097152 Bytes --> 2445 us, 857.8 MB/s
+Send&Recv: 2097152 Bytes --> 5700 us, 367.9 MB/s
+BCAST:     2097152 Bytes --> 2440 us, 859.6 MB/s
+Send&Recv: 2097152 Bytes --> 5702 us, 367.8 MB/s
+BCAST:     2097152 Bytes --> 2429 us, 863.4 MB/s
+Send&Recv: 2097152 Bytes --> 7300 us, 287.3 MB/s
+
+#proc=32
+BCAST:     4194304 Bytes --> 7289 us, 575.4 MB/s
+Send&Recv: 4194304 Bytes --> 11379 us, 368.6 MB/s
+BCAST:     4194304 Bytes --> 4789 us, 875.9 MB/s
+Send&Recv: 4194304 Bytes --> 10972 us, 382.3 MB/s
+BCAST:     4194304 Bytes --> 5135 us, 816.7 MB/s
+Send&Recv: 4194304 Bytes --> 10967 us, 382.5 MB/s
+BCAST:     4194304 Bytes --> 4905 us, 855.1 MB/s
+Send&Recv: 4194304 Bytes --> 10968 us, 382.4 MB/s
+BCAST:     4194304 Bytes --> 5056 us, 829.5 MB/s
+Send&Recv: 4194304 Bytes --> 12498 us, 335.6 MB/s
+
+#proc=32
+BCAST:     8388608 Bytes --> 9452 us, 887.5 MB/s
+Send&Recv: 8388608 Bytes --> 24787 us, 338.4 MB/s
+BCAST:     8388608 Bytes --> 8560 us, 979.9 MB/s
+Send&Recv: 8388608 Bytes --> 24343 us, 344.6 MB/s
+BCAST:     8388608 Bytes --> 9199 us, 911.9 MB/s
+Send&Recv: 8388608 Bytes --> 24429 us, 343.4 MB/s
+BCAST:     8388608 Bytes --> 9194 us, 912.4 MB/s
+Send&Recv: 8388608 Bytes --> 24339 us, 344.7 MB/s
+BCAST:     8388608 Bytes --> 9201 us, 911.7 MB/s
+Send&Recv: 8388608 Bytes --> 24308 us, 345.1 MB/s
+
+#proc=32
+BCAST:     16777216 Bytes --> 11756 us, 1427.1 MB/s
+Send&Recv: 16777216 Bytes --> 50770 us, 330.5 MB/s
+BCAST:     16777216 Bytes --> 11515 us, 1457.0 MB/s
+Send&Recv: 16777216 Bytes --> 50956 us, 329.2 MB/s
+BCAST:     16777216 Bytes --> 11444 us, 1466.0 MB/s
+Send&Recv: 16777216 Bytes --> 51239 us, 327.4 MB/s
+BCAST:     16777216 Bytes --> 11323 us, 1481.7 MB/s
+Send&Recv: 16777216 Bytes --> 51055 us, 328.6 MB/s
+BCAST:     16777216 Bytes --> 11538 us, 1454.0 MB/s
+Send&Recv: 16777216 Bytes --> 51015 us, 328.9 MB/s
+
+#proc=32
+BCAST:     33554432 Bytes --> 20285 us, 1654.1 MB/s
+Send&Recv: 33554432 Bytes --> 102535 us, 327.2 MB/s
+BCAST:     33554432 Bytes --> 20661 us, 1624.0 MB/s
+Send&Recv: 33554432 Bytes --> 102884 us, 326.1 MB/s
+BCAST:     33554432 Bytes --> 20090 us, 1670.2 MB/s
+Send&Recv: 33554432 Bytes --> 103158 us, 325.3 MB/s
+BCAST:     33554432 Bytes --> 23387 us, 1434.7 MB/s
+Send&Recv: 33554432 Bytes --> 102694 us, 326.7 MB/s
+BCAST:     33554432 Bytes --> 19983 us, 1679.1 MB/s
+Send&Recv: 33554432 Bytes --> 103063 us, 325.6 MB/s
+
+#proc=32
+BCAST:     67108864 Bytes --> 44079 us, 1522.5 MB/s
+Send&Recv: 67108864 Bytes --> 206374 us, 325.2 MB/s
+BCAST:     67108864 Bytes --> 46011 us, 1458.5 MB/s
+Send&Recv: 67108864 Bytes --> 204986 us, 327.4 MB/s
+BCAST:     67108864 Bytes --> 40673 us, 1650.0 MB/s
+Send&Recv: 67108864 Bytes --> 204940 us, 327.5 MB/s
+BCAST:     67108864 Bytes --> 42742 us, 1570.1 MB/s
+Send&Recv: 67108864 Bytes --> 209003 us, 321.1 MB/s
+BCAST:     67108864 Bytes --> 40711 us, 1648.4 MB/s
+Send&Recv: 67108864 Bytes --> 204960 us, 327.4 MB/s
+
